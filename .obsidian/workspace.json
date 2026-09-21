@@ -245,13 +245,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8a126b6cacee1eff",
+  "active": "ebbe7450d7ad49e0",
   "lastOpenFiles": [
+    "l.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Attachment/Pasted image 20260905072031.png",
+    "Text Document جديد.txt",
+    "Daily Notes/2026-09-21.md",
     "Daily Notes/Study Jenkins 2 Or 1 Session At Least.md",
     "Daily Notes/Revision Some Concepts in ASP.NET.md",
     "Daily Notes/Study Entity Framework Sessions 1,2 and Practice.md",
     "DataView/Dashboard.md",
-    "Daily Notes/2026-09-21.md",
     "DEPI/Study/DevOps/Summaries.md",
     "DEPI/Study/DevOps/DEPI - DevOps - Session 8 - Summary.md",
     "DEPI/Study/DevOps/DEPI - DevOps - Session 5 - Summary.md",
@@ -271,7 +276,6 @@
     "Attachment/Screenshot 2026-09-17 111836.png",
     "Attachment/Screenshot 2026-09-17 111934.png",
     "Attachment/Screenshot 2026-09-17 114321.png",
-    "Attachment/Screenshot 2026-09-17 114445.png",
     "DEPI/Study/DevOps/DEPI - DevOps - Session 1 - Summary.md",
     "My Study/Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Scalability and Maintainability.md",
     "My Study/Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Reliability.md",
@@ -280,9 +284,6 @@
     "My Study/Backend/For Revision/Backend Basics/What is Back-End Architecture.md",
     "My Study/Backend/For Revision/C#/Revision on OOP.md",
     "My Study/Backend/For Revision/C#/Csharp ITI Eng Mohamed Mahdy.md",
-    "My Study/Backend/For Revision/C#/Csharp .NET Revision.md",
-    "My Study/Backend/For Revision/C#/Collections in Csharp.md",
-    "My Study/Backend/For Revision/Core Concept/SOLID  Principles.md",
     "Preparing To Master",
     "DEPI/Study/DevOps/Kubernates",
     "TaskNotes/Views/kanban-default.base",
@@ -293,7 +294,6 @@
     "TaskNotes/Views/tasks-default.base",
     "Attachment/Untitled.canvas",
     "Attachment/Untitled.base",
-    "Attachment/Untitled 1.base",
     "Untitled.canvas"
   ]
 }
