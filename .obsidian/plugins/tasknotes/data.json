@@ -1,0 +1,1295 @@
+{
+  "tasksFolder": "TaskNotes/Tasks",
+  "moveArchivedTasks": false,
+  "archiveFolder": "TaskNotes/Archive",
+  "taskTag": "task",
+  "taskIdentificationMethod": "tag",
+  "hideIdentifyingTagsInCards": false,
+  "hideIdentifyingTagsMode": "all",
+  "taskPropertyName": "",
+  "taskPropertyValue": "",
+  "excludedFolders": "",
+  "defaultTaskPriority": "normal",
+  "defaultTaskStatus": "open",
+  "taskOrgFiltersCollapsed": false,
+  "taskFilenameFormat": "zettel",
+  "storeTitleInFilename": true,
+  "customFilenameTemplate": "{{title}}",
+  "taskCreationDefaults": {
+    "defaultContexts": "",
+    "defaultTags": "",
+    "defaultProjects": "",
+    "useParentNoteForTaskCreation": false,
+    "useParentNoteAsProject": false,
+    "useParentHeaderAsProject": false,
+    "inheritParentTaskProperties": false,
+    "defaultTimeEstimate": 0,
+    "defaultRecurrence": "none",
+    "defaultDueDate": "none",
+    "defaultDueTime": "none",
+    "defaultScheduledDate": "today",
+    "defaultScheduledTime": "none",
+    "bodyTemplate": "",
+    "useBodyTemplate": false,
+    "occurrenceBodyTemplate": "",
+    "useOccurrenceBodyTemplate": false,
+    "defaultReminders": []
+  },
+  "openTaskAfterCreation": "none",
+  "calendarViewSettings": {
+    "defaultView": "dayGridMonth",
+    "customDayCount": 3,
+    "slotDuration": "00:30:00",
+    "slotMinTime": "00:00:00",
+    "slotMaxTime": "24:00:00",
+    "scrollTime": "08:00:00",
+    "firstDay": 1,
+    "timeFormat": "24",
+    "showWeekends": true,
+    "locale": "",
+    "defaultShowScheduled": true,
+    "defaultShowDue": true,
+    "defaultShowDueWhenScheduled": true,
+    "defaultShowScheduledToDueSpan": false,
+    "defaultShowTimeEntries": false,
+    "defaultShowRecurring": true,
+    "defaultShowICSEvents": true,
+    "enableTimeblocking": false,
+    "defaultShowTimeblocks": true,
+    "defaultTimeblockColor": "#6366f1",
+    "timeblockAttachmentSearchOrder": "name-asc",
+    "nowIndicator": true,
+    "selectMirror": true,
+    "weekNumbers": false,
+    "showTodayHighlight": true,
+    "eventMinHeight": 15,
+    "slotEventOverlap": true,
+    "eventMaxStack": null,
+    "dayMaxEvents": true,
+    "dayMaxEventRows": false
+  },
+  "pomodoroWorkDuration": 25,
+  "pomodoroShortBreakDuration": 5,
+  "pomodoroLongBreakDuration": 15,
+  "pomodoroLongBreakInterval": 4,
+  "pomodoroAutoStartBreaks": true,
+  "pomodoroAutoStartWork": false,
+  "pomodoroNotifications": true,
+  "pomodoroSoundEnabled": true,
+  "pomodoroSoundVolume": 50,
+  "pomodoroStorageLocation": "plugin",
+  "pomodoroMobileSidebar": "tab",
+  "showPomodoroInStatusBar": true,
+  "enableTaskLinkOverlay": true,
+  "disableOverlayOnAlias": false,
+  "enableInstantTaskConvert": true,
+  "useDefaultsOnInstantConvert": true,
+  "preserveCheckboxOnConvert": false,
+  "taskModalTabMovesFocus": true,
+  "enableNaturalLanguageInput": true,
+  "nlpDefaultToScheduled": true,
+  "nlpLanguage": "en",
+  "uiLanguage": "system",
+  "statusSuggestionTrigger": "*",
+  "nlpTriggers": {
+    "triggers": [
+      {
+        "propertyId": "tags",
+        "trigger": "#",
+        "enabled": true
+      },
+      {
+        "propertyId": "contexts",
+        "trigger": "@",
+        "enabled": true
+      },
+      {
+        "propertyId": "projects",
+        "trigger": "+",
+        "enabled": true
+      },
+      {
+        "propertyId": "status",
+        "trigger": "*",
+        "enabled": true
+      },
+      {
+        "propertyId": "priority",
+        "trigger": "!",
+        "enabled": false
+      }
+    ]
+  },
+  "singleClickAction": "edit",
+  "doubleClickAction": "openNote",
+  "projectAutosuggest": {
+    "enableFuzzy": false,
+    "rows": [
+      "{title|n(Title)}",
+      "{aliases|n(Aliases)}",
+      "{file.path|n(Path)}"
+    ],
+    "showAdvanced": false,
+    "requiredTags": [],
+    "includeFolders": [],
+    "propertyKey": "",
+    "propertyValue": ""
+  },
+  "inlineTaskConvertFolder": "{{currentNotePath}}",
+  "disableNoteIndexing": false,
+  "suggestionDebounceMs": 0,
+  "fieldMapping": {
+    "title": "title",
+    "status": "status",
+    "priority": "priority",
+    "due": "due",
+    "scheduled": "scheduled",
+    "contexts": "contexts",
+    "projects": "projects",
+    "timeEstimate": "timeEstimate",
+    "completedDate": "completedDate",
+    "dateCreated": "dateCreated",
+    "dateModified": "dateModified",
+    "recurrence": "recurrence",
+    "recurrenceAnchor": "recurrence_anchor",
+    "recurrenceParent": "recurrence_parent",
+    "occurrenceDate": "occurrence_date",
+    "occurrenceMaterialization": "occurrence_materialization",
+    "occurrenceNextTrigger": "occurrence_next_trigger",
+    "occurrenceTemplate": "occurrence_template",
+    "occurrencePastHorizon": "occurrence_past_horizon",
+    "occurrenceFutureHorizon": "occurrence_future_horizon",
+    "archiveTag": "archived",
+    "timeEntries": "timeEntries",
+    "completeInstances": "complete_instances",
+    "skippedInstances": "skipped_instances",
+    "blockedBy": "blockedBy",
+    "pomodoros": "pomodoros",
+    "icsEventId": "icsEventId",
+    "icsEventTag": "ics_event",
+    "googleCalendarEventId": "googleCalendarEventId",
+    "googleCalendarExceptionEventId": "googleCalendarExceptionEventId",
+    "googleCalendarExceptionOriginalScheduled": "googleCalendarExceptionOriginalScheduled",
+    "googleCalendarMovedOriginalDates": "googleCalendarMovedOriginalDates",
+    "reminders": "reminders",
+    "sortOrder": "tasknotes_manual_order"
+  },
+  "customStatuses": [
+    {
+      "id": "none",
+      "value": "none",
+      "label": "None",
+      "color": "#cccccc",
+      "isCompleted": false,
+      "excludeFromCycle": false,
+      "order": 0,
+      "autoArchive": false,
+      "autoArchiveDelay": 5
+    },
+    {
+      "id": "open",
+      "value": "open",
+      "label": "Open",
+      "color": "#808080",
+      "isCompleted": false,
+      "excludeFromCycle": false,
+      "order": 1,
+      "autoArchive": false,
+      "autoArchiveDelay": 5
+    },
+    {
+      "id": "in-progress",
+      "value": "in-progress",
+      "label": "In progress",
+      "color": "#0066cc",
+      "isCompleted": false,
+      "excludeFromCycle": false,
+      "order": 2,
+      "autoArchive": false,
+      "autoArchiveDelay": 5
+    },
+    {
+      "id": "done",
+      "value": "done",
+      "label": "Done",
+      "color": "#00aa00",
+      "isCompleted": true,
+      "excludeFromCycle": false,
+      "order": 3,
+      "autoArchive": false,
+      "autoArchiveDelay": 5
+    }
+  ],
+  "customPriorities": [
+    {
+      "id": "none",
+      "value": "none",
+      "label": "None",
+      "color": "#cccccc",
+      "weight": 0
+    },
+    {
+      "id": "low",
+      "value": "low",
+      "label": "Low",
+      "color": "#00aa00",
+      "weight": 1
+    },
+    {
+      "id": "normal",
+      "value": "normal",
+      "label": "Normal",
+      "color": "#ffaa00",
+      "weight": 2
+    },
+    {
+      "id": "high",
+      "value": "high",
+      "label": "High",
+      "color": "#ff0000",
+      "weight": 3
+    }
+  ],
+  "recurrenceMigrated": false,
+  "showReleaseNotesOnUpdate": true,
+  "checkForUpdatesOnStartup": true,
+  "starterNoteCreated": true,
+  "showTrackedTasksInStatusBar": false,
+  "autoStopTimeTrackingOnComplete": true,
+  "autoStopTimeTrackingNotification": false,
+  "showRelationships": true,
+  "relationshipsPosition": "bottom",
+  "showTaskCardInNote": true,
+  "showCompletedTaskStrikethrough": true,
+  "showExpandableSubtasks": true,
+  "expandSubtasksByDefault": false,
+  "subtaskChevronPosition": "right",
+  "viewsButtonAlignment": "right",
+  "hideCompletedFromOverdue": true,
+  "icsIntegration": {
+    "defaultNoteTemplate": "",
+    "defaultNoteFolder": "",
+    "icsNoteFilenameFormat": "title",
+    "customICSNoteFilenameTemplate": "{title}",
+    "enableAutoExport": false,
+    "autoExportPath": "tasknotes-calendar.ics",
+    "autoExportInterval": 60,
+    "useDurationForExport": false,
+    "excludeArchivedFromExport": false,
+    "excludeCompletedFromExport": false,
+    "requireDueDateForExport": false,
+    "requireScheduledDateForExport": false,
+    "useICSEndAsDue": false,
+    "recurringEventRelatedNotesMode": "series"
+  },
+  "savedViews": [],
+  "enableNotifications": true,
+  "notificationType": "system",
+  "notificationSoundEnabled": false,
+  "notificationSoundVolume": 50,
+  "enableAPI": false,
+  "apiPort": 8080,
+  "apiAuthToken": "",
+  "enableMCP": false,
+  "webhooks": [],
+  "userFields": [],
+  "modalFieldsConfig": {
+    "version": 1,
+    "fields": [
+      {
+        "id": "title",
+        "fieldType": "core",
+        "group": "basic",
+        "displayName": "Title",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 0,
+        "enabled": true,
+        "required": true
+      },
+      {
+        "id": "details",
+        "fieldType": "core",
+        "group": "basic",
+        "displayName": "Details",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "contexts",
+        "fieldType": "core",
+        "group": "metadata",
+        "displayName": "Contexts",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 0,
+        "enabled": true
+      },
+      {
+        "id": "tags",
+        "fieldType": "core",
+        "group": "metadata",
+        "displayName": "Tags",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "time-estimate",
+        "fieldType": "core",
+        "group": "metadata",
+        "displayName": "Time Estimate",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 2,
+        "enabled": true
+      },
+      {
+        "id": "projects",
+        "fieldType": "organization",
+        "group": "organization",
+        "displayName": "Projects",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 0,
+        "enabled": true
+      },
+      {
+        "id": "subtasks",
+        "fieldType": "organization",
+        "group": "organization",
+        "displayName": "Subtasks",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "blocked-by",
+        "fieldType": "dependency",
+        "group": "dependencies",
+        "displayName": "Blocked By",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 0,
+        "enabled": true
+      },
+      {
+        "id": "blocking",
+        "fieldType": "dependency",
+        "group": "dependencies",
+        "displayName": "Blocking",
+        "visibleInCreation": true,
+        "visibleInEdit": true,
+        "order": 1,
+        "enabled": true
+      }
+    ],
+    "groups": [
+      {
+        "id": "basic",
+        "displayName": "Basic Information",
+        "order": 0,
+        "collapsible": false,
+        "defaultCollapsed": false
+      },
+      {
+        "id": "metadata",
+        "displayName": "Metadata",
+        "order": 1,
+        "collapsible": true,
+        "defaultCollapsed": false
+      },
+      {
+        "id": "organization",
+        "displayName": "Organization",
+        "order": 2,
+        "collapsible": true,
+        "defaultCollapsed": false
+      },
+      {
+        "id": "dependencies",
+        "displayName": "Dependencies",
+        "order": 3,
+        "collapsible": true,
+        "defaultCollapsed": false
+      },
+      {
+        "id": "custom",
+        "displayName": "Custom Fields",
+        "order": 4,
+        "collapsible": true,
+        "defaultCollapsed": false
+      }
+    ]
+  },
+  "enableModalSplitLayout": true,
+  "defaultVisibleProperties": [
+    "status",
+    "priority",
+    "due",
+    "scheduled",
+    "projects",
+    "contexts",
+    "tags",
+    "blocked",
+    "blocking"
+  ],
+  "inlineVisibleProperties": [
+    "status",
+    "priority",
+    "due",
+    "scheduled",
+    "recurrence"
+  ],
+  "enableBases": true,
+  "enableMdbaseSpec": false,
+  "autoCreateDefaultBasesFiles": true,
+  "commandFileMapping": {
+    "open-calendar-view": "TaskNotes/Views/mini-calendar-default.base",
+    "open-kanban-view": "TaskNotes/Views/kanban-default.base",
+    "open-tasks-view": "TaskNotes/Views/tasks-default.base",
+    "open-advanced-calendar-view": "TaskNotes/Views/calendar-default.base",
+    "open-agenda-view": "TaskNotes/Views/agenda-default.base",
+    "pomodoro-stats-base": "TaskNotes/Views/pomodoro-stats.base",
+    "relationships": "TaskNotes/Views/relationships.base"
+  },
+  "maintainDueDateOffsetInRecurring": false,
+  "resetCheckboxesOnRecurrence": false,
+  "useFrontmatterMarkdownLinks": false,
+  "googleOAuthClientId": "",
+  "googleOAuthClientSecret": "",
+  "microsoftOAuthClientId": "",
+  "microsoftOAuthClientSecret": "",
+  "enableGoogleCalendar": false,
+  "enableMicrosoftCalendar": false,
+  "disableCalendarOnMobile": false,
+  "enabledGoogleCalendars": [],
+  "googleCalendarSyncTokens": {},
+  "enabledMicrosoftCalendars": [],
+  "microsoftCalendarSyncTokens": {},
+  "googleCalendarExport": {
+    "enabled": false,
+    "targetCalendarId": "",
+    "syncOnTaskCreate": true,
+    "syncOnTaskUpdate": true,
+    "syncOnTaskComplete": true,
+    "syncOnTaskDelete": true,
+    "eventTitleTemplate": "{{title}}",
+    "includeDescription": true,
+    "eventColorId": null,
+    "syncTrigger": "scheduled",
+    "createAsAllDay": true,
+    "defaultEventDuration": 60,
+    "includeObsidianLink": true,
+    "defaultReminderMinutes": null
+  },
+  "enableDebugLogging": false,
+  "lastSeenVersion": "4.11.1",
+  "googleCalendarSyncQueue": [
+    {
+      "taskPath": "TaskNotes/Tasks/Session 2 - DEPI - DevOps.md",
+      "requestedAt": 1785413939733,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Soft Skills Session Assignment.md",
+      "requestedAt": 1785625439969,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Study Session.md",
+      "requestedAt": 1785625593038,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Session 4 - DEPI - DevOps.md",
+      "requestedAt": 1785625888082,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/English Assignment - DEPI.md",
+      "requestedAt": 1785626064144,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/DEPI - DevOps Session.md",
+      "requestedAt": 1785647756453,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Route - ASP.NET Session.md",
+      "requestedAt": 1785647974845,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Route - ASP.NET.md",
+      "requestedAt": 1785648084284,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/DEPI - Soft Skills.md",
+      "requestedAt": 1785648426755,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/DEPI - English.md",
+      "requestedAt": 1785648524891,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/DEPI - DevOps.md",
+      "requestedAt": 1785648629497,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Complete Session 8 - DevOps - Docker 2.md",
+      "requestedAt": 1787097255432,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Revision on OOP C and Make a Project.md",
+      "requestedAt": 1787097318480,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Revision on OOP Topics and make a project.md",
+      "requestedAt": 1787097382938,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Lab 1 - Docker.md",
+      "requestedAt": 1787097652609,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "requestedAt": 1788393366976,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Revision on C Advanced (Whole).md",
+      "requestedAt": 1788632139384,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Study 10 Sessions DEPI.md",
+      "requestedAt": 1789608401091,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "Daily Notes/Study Entity Framework Sessions 1,2 and Practice.md",
+      "requestedAt": 1789969682489,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "Daily Notes/Revision Some Concepts in ASP.NET.md",
+      "requestedAt": 1789969732809,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "Daily Notes/Study Jenkins 2 Or 1 Session At Least.md",
+      "requestedAt": 1789971318725,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    }
+  ],
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500,
+    "nextSessionType": "work"
+  },
+  "lastPomodoroDate": "2026-09-16",
+  "pomodoroHistory": [
+    {
+      "id": "1785414150208",
+      "startTime": "2026-07-30T15:22:30.208+03:00",
+      "endTime": "2026-07-30T15:47:33.354+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 2 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T15:22:30.208+03:00",
+          "endTime": "2026-07-30T15:22:33.006+03:00"
+        },
+        {
+          "startTime": "2026-07-30T15:22:36.152+03:00",
+          "endTime": "2026-07-30T15:47:33.354+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785415655538",
+      "startTime": "2026-07-30T15:47:35.538+03:00",
+      "endTime": "2026-07-30T15:52:35.538+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T15:47:35.538+03:00",
+          "endTime": "2026-07-30T15:52:35.538+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785418018260",
+      "startTime": "2026-07-30T16:26:58.260+03:00",
+      "endTime": "2026-07-30T16:51:58.260+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 2 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T16:26:58.260+03:00",
+          "endTime": "2026-07-30T16:51:58.260+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785419519803",
+      "startTime": "2026-07-30T16:51:59.803+03:00",
+      "endTime": "2026-07-30T16:56:59.803+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T16:51:59.803+03:00",
+          "endTime": "2026-07-30T16:56:59.803+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785420781208",
+      "startTime": "2026-07-30T17:13:01.208+03:00",
+      "endTime": "2026-07-30T17:30:02.208+03:00",
+      "plannedDuration": 17.016666666666666,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 2 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T17:13:01.208+03:00",
+          "endTime": "2026-07-30T17:30:02.208+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785421803324",
+      "startTime": "2026-07-30T17:30:03.324+03:00",
+      "endTime": "2026-07-30T17:35:03.324+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T17:30:03.324+03:00",
+          "endTime": "2026-07-30T17:35:03.324+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785572981609",
+      "startTime": "2026-08-01T11:29:41.609+03:00",
+      "endTime": "2026-08-01T11:54:41.609+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 2 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-01T11:29:41.609+03:00",
+          "endTime": "2026-08-01T11:54:41.609+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785574483227",
+      "startTime": "2026-08-01T11:54:43.227+03:00",
+      "endTime": "2026-08-01T11:59:43.227+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-01T11:54:43.227+03:00",
+          "endTime": "2026-08-01T11:59:43.227+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785683108580",
+      "startTime": "2026-08-02T18:05:08.580+03:00",
+      "endTime": "2026-08-02T18:30:08.580+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 2 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-02T18:05:08.580+03:00",
+          "endTime": "2026-08-02T18:30:08.580+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785684609934",
+      "startTime": "2026-08-02T18:30:09.934+03:00",
+      "endTime": "2026-08-02T18:35:09.934+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-02T18:30:09.934+03:00",
+          "endTime": "2026-08-02T18:35:09.934+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785685134575",
+      "startTime": "2026-08-02T18:38:54.575+03:00",
+      "endTime": "2026-08-02T19:03:54.575+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 2 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-02T18:38:54.575+03:00",
+          "endTime": "2026-08-02T19:03:54.575+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785686635836",
+      "startTime": "2026-08-02T19:03:55.836+03:00",
+      "endTime": "2026-08-02T19:08:55.836+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-02T19:03:55.836+03:00",
+          "endTime": "2026-08-02T19:08:55.836+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785747855198",
+      "startTime": "2026-08-03T12:04:15.198+03:00",
+      "endTime": "2026-08-03T12:29:15.198+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 3 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-03T12:04:15.198+03:00",
+          "endTime": "2026-08-03T12:29:15.198+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785749356355",
+      "startTime": "2026-08-03T12:29:16.355+03:00",
+      "endTime": "2026-08-03T12:34:16.355+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-03T12:29:16.355+03:00",
+          "endTime": "2026-08-03T12:34:16.355+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785908892145",
+      "startTime": "2026-08-05T08:48:12.145+03:00",
+      "endTime": "2026-08-05T09:53:53.258+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 3 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-05T08:48:12.145+03:00",
+          "endTime": "2026-08-05T09:01:02.198+03:00"
+        },
+        {
+          "startTime": "2026-08-05T09:41:43.311+03:00",
+          "endTime": "2026-08-05T09:53:53.258+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785912834482",
+      "startTime": "2026-08-05T09:53:54.482+03:00",
+      "endTime": "2026-08-05T09:58:54.482+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-05T09:53:54.482+03:00",
+          "endTime": "2026-08-05T09:58:54.482+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785914124282",
+      "startTime": "2026-08-05T10:15:24.282+03:00",
+      "endTime": "2026-08-05T10:40:24.282+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 3 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-05T10:15:24.282+03:00",
+          "endTime": "2026-08-05T10:40:24.282+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785915625541",
+      "startTime": "2026-08-05T10:40:25.541+03:00",
+      "endTime": "2026-08-05T10:45:25.541+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-05T10:40:25.541+03:00",
+          "endTime": "2026-08-05T10:45:25.541+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1786433178586",
+      "startTime": "2026-08-11T10:26:18.585+03:00",
+      "endTime": "2026-08-11T10:53:19.236+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Session 4 - DEPI - DevOps.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-11T10:26:18.585+03:00",
+          "endTime": "2026-08-11T10:26:33.303+03:00"
+        },
+        {
+          "startTime": "2026-08-11T10:28:33.954+03:00",
+          "endTime": "2026-08-11T10:53:19.236+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1786434801255",
+      "startTime": "2026-08-11T10:53:21.255+03:00",
+      "endTime": "2026-08-11T10:58:21.255+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-08-11T10:53:21.255+03:00",
+          "endTime": "2026-08-11T10:58:21.255+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788393375054",
+      "startTime": "2026-09-03T02:56:15.054+03:00",
+      "endTime": "2026-09-03T03:41:15.054+03:00",
+      "plannedDuration": 45,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T02:56:15.054+03:00",
+          "endTime": "2026-09-03T03:41:15.054+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788396076681",
+      "startTime": "2026-09-03T03:41:16.681+03:00",
+      "endTime": "2026-09-03T03:46:16.681+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T03:41:16.681+03:00",
+          "endTime": "2026-09-03T03:46:16.681+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788397578638",
+      "startTime": "2026-09-03T04:06:18.638+03:00",
+      "endTime": "2026-09-03T04:31:18.638+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T04:06:18.638+03:00",
+          "endTime": "2026-09-03T04:31:18.638+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788399079745",
+      "startTime": "2026-09-03T04:31:19.745+03:00",
+      "endTime": "2026-09-03T04:36:19.745+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T04:31:19.745+03:00",
+          "endTime": "2026-09-03T04:36:19.745+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788400491248",
+      "startTime": "2026-09-03T04:54:51.248+03:00",
+      "endTime": "2026-09-03T05:19:51.248+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T04:54:51.248+03:00",
+          "endTime": "2026-09-03T05:19:51.248+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788401992447",
+      "startTime": "2026-09-03T05:19:52.447+03:00",
+      "endTime": "2026-09-03T05:24:52.447+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T05:19:52.447+03:00",
+          "endTime": "2026-09-03T05:24:52.447+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788404383342",
+      "startTime": "2026-09-03T05:59:43.342+03:00",
+      "endTime": "2026-09-03T06:24:43.342+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T05:59:43.342+03:00",
+          "endTime": "2026-09-03T06:24:43.342+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788405884550",
+      "startTime": "2026-09-03T06:24:44.550+03:00",
+      "endTime": "2026-09-03T06:35:22.737+03:00",
+      "plannedDuration": 15,
+      "type": "long-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T06:24:44.550+03:00",
+          "endTime": "2026-09-03T06:35:22.737+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788406529713",
+      "startTime": "2026-09-03T06:35:29.713+03:00",
+      "endTime": "2026-09-03T07:00:29.713+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T06:35:29.713+03:00",
+          "endTime": "2026-09-03T07:00:29.713+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788408030873",
+      "startTime": "2026-09-03T07:00:30.873+03:00",
+      "endTime": "2026-09-03T07:00:42.328+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T07:00:30.873+03:00",
+          "endTime": "2026-09-03T07:00:42.328+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788408043276",
+      "startTime": "2026-09-03T07:00:43.276+03:00",
+      "endTime": "2026-09-03T07:09:37.370+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-03T07:00:43.276+03:00",
+          "endTime": "2026-09-03T07:09:37.370+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788572313315",
+      "startTime": "2026-09-05T04:38:33.315+03:00",
+      "endTime": "2026-09-05T05:03:33.315+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T04:38:33.315+03:00",
+          "endTime": "2026-09-05T05:03:33.315+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788573814549",
+      "startTime": "2026-09-05T05:03:34.549+03:00",
+      "endTime": "2026-09-05T05:06:47.197+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T05:03:34.549+03:00",
+          "endTime": "2026-09-05T05:06:47.197+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788574008304",
+      "startTime": "2026-09-05T05:06:48.304+03:00",
+      "endTime": "2026-09-05T05:31:48.304+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T05:06:48.304+03:00",
+          "endTime": "2026-09-05T05:31:48.304+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788575509846",
+      "startTime": "2026-09-05T05:31:49.846+03:00",
+      "endTime": "2026-09-05T05:36:49.846+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T05:31:49.846+03:00",
+          "endTime": "2026-09-05T05:36:49.846+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788582248725",
+      "startTime": "2026-09-05T07:24:08.725+03:00",
+      "endTime": "2026-09-05T07:49:08.725+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T07:24:08.725+03:00",
+          "endTime": "2026-09-05T07:49:08.725+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788583749977",
+      "startTime": "2026-09-05T07:49:09.976+03:00",
+      "endTime": "2026-09-05T07:54:09.976+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T07:49:09.976+03:00",
+          "endTime": "2026-09-05T07:54:09.976+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788584065971",
+      "startTime": "2026-09-05T07:54:25.971+03:00",
+      "endTime": "2026-09-05T08:19:25.971+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T07:54:25.971+03:00",
+          "endTime": "2026-09-05T08:19:25.971+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788585567124",
+      "startTime": "2026-09-05T08:19:27.124+03:00",
+      "endTime": "2026-09-05T08:21:41.385+03:00",
+      "plannedDuration": 15,
+      "type": "long-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T08:19:27.124+03:00",
+          "endTime": "2026-09-05T08:21:41.385+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788585702631",
+      "startTime": "2026-09-05T08:21:42.631+03:00",
+      "endTime": "2026-09-05T08:46:42.631+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T08:21:42.631+03:00",
+          "endTime": "2026-09-05T08:46:42.631+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1788587203770",
+      "startTime": "2026-09-05T08:46:43.770+03:00",
+      "endTime": "2026-09-05T08:51:43.770+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-05T08:46:43.770+03:00",
+          "endTime": "2026-09-05T08:51:43.770+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1789608645506",
+      "startTime": "2026-09-17T04:30:45.506+03:00",
+      "endTime": "2026-09-17T04:55:45.506+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study 10 Sessions DEPI.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-17T04:30:45.506+03:00",
+          "endTime": "2026-09-17T04:55:45.506+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1789610146685",
+      "startTime": "2026-09-17T04:55:46.685+03:00",
+      "endTime": "2026-09-17T04:59:56.940+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-17T04:55:46.685+03:00",
+          "endTime": "2026-09-17T04:59:56.940+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1789610399104",
+      "startTime": "2026-09-17T04:59:59.104+03:00",
+      "endTime": "2026-09-17T05:24:59.104+03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Study 10 Sessions DEPI.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-17T04:59:59.104+03:00",
+          "endTime": "2026-09-17T05:24:59.104+03:00"
+        }
+      ]
+    },
+    {
+      "id": "1789611900372",
+      "startTime": "2026-09-17T05:25:00.372+03:00",
+      "endTime": "2026-09-17T05:30:00.372+03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-09-17T05:25:00.372+03:00",
+          "endTime": "2026-09-17T05:30:00.372+03:00"
+        }
+      ]
+    }
+  ],
+  "lastSelectedTaskPath": "TaskNotes/Tasks/Study Git and GitHub.md",
+  "lastNotifiedReleaseVersion": "4.13.2"
+}

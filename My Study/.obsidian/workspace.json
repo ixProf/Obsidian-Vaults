@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "fd8eb8acd2392a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d6945decfd8d478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e21bff6a3436ca0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collage/Level 3/Second Term/Compiler/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 2"
+            }
+          },
+          {
+            "id": "27708864d9875e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collage/Level 3/Second Term/Automata/Parser Based on Grammer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parser Based on Grammer"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2063347cd92ab8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc61eced93546240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bb409602fb22edb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2af1e3848b737bd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e059beb808fecf11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5110321044922
+  },
+  "right": {
+    "id": "0e16c3ced1d71807",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a2dc7fad7730620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fbd18f5e11fa8b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend/Route Academy Notes/Session 2 Notes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 2 Notes"
+            }
+          },
+          {
+            "id": "faede527964fed5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "af2ee01520da4554",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d9490c4c79aa2e3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1ab950e3e17b1560",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "202601141619.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "20bf339c0eddcb6b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "27708864d9875e3a",
+  "lastOpenFiles": [
+    "Collage/Level 3/Second Term/Automata/Lecture 4.md",
+    "Collage/Level 3/Second Term/Automata/Lecture 1.md",
+    "Collage/Level 3/Second Term/Compiler/CS Exam.md",
+    "Pasted image 20260616122841.png",
+    "Pasted image 20260616122831.png",
+    "Pasted image 20260616122819.png",
+    "Collage/Level 3/Second Term/Software Development/Lecture 3 Summary.md",
+    "Collage/Level 3/Second Term/Software Development/Lecture 3.md",
+    "Pasted image 20260614113043.png",
+    "Collage/Level 3/Second Term/Software Development/Lecture 5.md",
+    "Pasted image 20260613103741.png",
+    "Collage/Level 3/Second Term/Software Development/Lecture 4.md",
+    "Pasted image 20260613034552.png",
+    "Pasted image 20260613031951.png",
+    "Pasted image 20260613031940.png",
+    "Pasted image 20260613030303.png",
+    "Backend/ROAD TO HIRE.md",
+    "Backend/Route Academy Notes/Session 2 Notes.md",
+    "Backend/Route Academy Notes/Referential Integrity Rules.md",
+    "Backend/For Study/Untitled.md",
+    "Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Scalability and Maintainability.md",
+    "Pasted image 20260612102637.png",
+    "Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1",
+    "Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Reliability.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 11.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 10.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 9.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 8.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 7.md",
+    "للتقديمات.md",
+    "شهاداتي.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 6.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 5.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 4 (3.5.1).md",
+    "Backend/For Study/System Design/Designing Data Intensive Applications",
+    "Backend/For Study/System Design",
+    "Collage/Level 3/Second Term/Compiler/Lecture 3 للبصمجة.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 3.md",
+    "Collage/Level 3/Second Term/Compiler/Lecture 2.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Backend/Route Academy Notes/Assignments",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Backend/My Projects/واحة الدرعية",
+    "Backend/My Projects",
+    "Untitled.canvas"
+  ]
+}

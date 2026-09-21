@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-09-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4800333217aa663",
+    "type": "split",
+    "children": [
+      {
+        "id": "e573ea96414c4021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a126b6cacee1eff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce1ed92e27b74cf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"priority\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c670afbf47d6823b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.2837142944336
+  },
+  "right": {
+    "id": "194286fee232eebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a76a72dc9f9bc67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a49edf23748890de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2026-09-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6132db500666941a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2026-09-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "011e6d4e59b78e2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "978b6041a15197e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8838c03d4534f5c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2026-09-21.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ebbe7450d7ad49e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3d19d5f6ddfe4694",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "My Study/Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Reliability.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "498d9505a6b6ed93",
+            "type": "leaf",
+            "state": {
+              "type": "highlightr-notes-view",
+              "state": {},
+              "icon": "sticky-note",
+              "title": "Highlights & Notes"
+            }
+          },
+          {
+            "id": "0d4ea7e0bf47523b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 548.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "8a126b6cacee1eff",
+  "lastOpenFiles": [
+    "Daily Notes/Study Jenkins 2 Or 1 Session At Least.md",
+    "Daily Notes/Revision Some Concepts in ASP.NET.md",
+    "Daily Notes/Study Entity Framework Sessions 1,2 and Practice.md",
+    "DataView/Dashboard.md",
+    "Daily Notes/2026-09-21.md",
+    "DEPI/Study/DevOps/Summaries.md",
+    "DEPI/Study/DevOps/DEPI - DevOps - Session 8 - Summary.md",
+    "DEPI/Study/DevOps/DEPI - DevOps - Session 5 - Summary.md",
+    "DEPI/Study/DevOps/DEPI - DevOps - Session 7 - Summary.md",
+    "DEPI/Study/DevOps/Exam.md",
+    "DEPI/Study/DevOps/DEPI - DevOps - Session 4 - Summary.md",
+    "DEPI/Study/DevOps/DEPI - DevOps - Session 3 - Summary.md",
+    "DEPI/Study/DevOps/DEPI - DevOps - Session 2 - Summary.md",
+    "DEPI/Study/DevOps/DEPI - DevOps - Session 9 - Summary.md",
+    "DEPI/Assignment/DevOps/Git Assignmnet.md",
+    "Attachment/Screenshot 2026-09-17 110315.png",
+    "Attachment/Screenshot 2026-09-17 110907.png",
+    "Attachment/Screenshot 2026-09-17 111018.png",
+    "Attachment/Screenshot 2026-09-17 111207.png",
+    "Attachment/Screenshot 2026-09-17 111524.png",
+    "Attachment/Screenshot 2026-09-17 111725.png",
+    "Attachment/Screenshot 2026-09-17 111836.png",
+    "Attachment/Screenshot 2026-09-17 111934.png",
+    "Attachment/Screenshot 2026-09-17 114321.png",
+    "Attachment/Screenshot 2026-09-17 114445.png",
+    "DEPI/Study/DevOps/DEPI - DevOps - Session 1 - Summary.md",
+    "My Study/Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Scalability and Maintainability.md",
+    "My Study/Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Reliability.md",
+    "My Study/Backend/For Revision/Core Concept/Git & Github/Git & GitHub - Chapter 1.md",
+    "TaskNotes/Tasks/Study 10 Sessions DEPI.md",
+    "My Study/Backend/For Revision/Backend Basics/What is Back-End Architecture.md",
+    "My Study/Backend/For Revision/C#/Revision on OOP.md",
+    "My Study/Backend/For Revision/C#/Csharp ITI Eng Mohamed Mahdy.md",
+    "My Study/Backend/For Revision/C#/Csharp .NET Revision.md",
+    "My Study/Backend/For Revision/C#/Collections in Csharp.md",
+    "My Study/Backend/For Revision/Core Concept/SOLID  Principles.md",
+    "Preparing To Master",
+    "DEPI/Study/DevOps/Kubernates",
+    "TaskNotes/Views/kanban-default.base",
+    "My Study/Backend/For Revision/Core Concept/Git & Github",
+    "My Study/Backend/Laravel",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "Attachment/Untitled.canvas",
+    "Attachment/Untitled.base",
+    "Attachment/Untitled 1.base",
+    "Untitled.canvas"
+  ]
+}

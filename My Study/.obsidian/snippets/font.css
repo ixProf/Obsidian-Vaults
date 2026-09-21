@@ -1,0 +1,7 @@
+body {
+    font-family: "thmanyah serif display", serif;
+
+    font-feature-settings: "ss01" 1, "ss02" 1, "ss03" 1;
+
+    font-variant-alternates: stylistic();
+}
