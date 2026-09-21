@@ -615,6 +615,12 @@
       "requestedAt": 1789971318725,
       "attempts": 0,
       "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "Daily Notes/Study and Revision LINQ.md",
+      "requestedAt": 1789995689644,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
     }
   ],
   "pomodoroState": {
