@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-09-21.md",
+                "file": "My Study/Backend/For Revision/LINQ/LINQ Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-21"
+              "title": "LINQ Revision"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2026-09-21.md",
+                "file": "My Study/Backend/For Revision/LINQ/LINQ Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2026-09-21.md",
+                "file": "My Study/Backend/For Revision/LINQ/LINQ Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2026-09-21.md",
+                "file": "My Study/Backend/For Revision/LINQ/LINQ Revision.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,12 +247,12 @@
   },
   "active": "ebbe7450d7ad49e0",
   "lastOpenFiles": [
+    "Daily Notes/2026-09-21.md",
     "l.md",
     "Untitled.md",
     "Untitled 1.md",
     "Attachment/Pasted image 20260905072031.png",
     "Text Document جديد.txt",
-    "Daily Notes/2026-09-21.md",
     "Daily Notes/Study Jenkins 2 Or 1 Session At Least.md",
     "Daily Notes/Revision Some Concepts in ASP.NET.md",
     "Daily Notes/Study Entity Framework Sessions 1,2 and Practice.md",
