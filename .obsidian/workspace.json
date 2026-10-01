@@ -11,30 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-09-22 04.40.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-22 04.40.41.excalidraw"
-            }
-          },
-          {
-            "id": "1d9fb7f03a89dff8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "My Study/Backend/For Revision/Advanced Csharp/Entity Framework Revision.md",
+                "file": "DataView/Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entity Framework Revision"
+              "title": "Dashboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,55 +245,55 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ebbe7450d7ad49e0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "My Study/Backend/For Revision/Advanced Csharp/IQueryable vs IEnumerable.md",
+    "My Master/Researches/RoadMap.md",
+    "My Master/Researches/Scholarships.md",
+    "My Master/Researches/Roadmap 2.md",
+    "My Master/Roadmap/Week 0/What's Distributed System.md",
+    "My Master/Roadmap/Week 0",
+    "My Master/Roadmap",
+    "DataView/Dashboard.md",
+    "My Master/Letters/Recommendation Letter.md",
+    "My Master/Letters/Motivation Letter.md",
+    "My Master/Dashboard.md",
+    "My Master/Scholarships.md",
+    "My Master/Attachments",
+    "My Master/Letters",
+    "My Master/Researches",
+    "My Master",
+    "Daily Notes/2026-09-29.md",
+    "Untitled.md",
+    "My Study/Backend/For Revision/Advanced Csharp/LINQ Revision.md",
+    "My Study/Collage/Level 3/First Term/Network/important questions on chapter 1.md",
+    "My Study/Collage/Level 3/First Term/Network/Final 2026.md",
+    "My Study/Collage/Project Documentation.md",
+    "My Study/202601141619.md",
+    "My Study/بيانات درجات المستوى الثاني.jpg",
+    "My Study/Backend/My Projects/Work Flow.md",
+    "Questions For Eng Ahmed Atef.md",
+    "DEPI/Assignment/DevOps/Jenkins Assignment.md",
+    "Attachment/Pasted image 20260924152231.png",
+    "Attachment/Pasted image 20260924152209.png",
+    "Attachment/Pasted image 20260924152112.png",
+    "Attachment/Pasted image 20260924152051.png",
+    "Attachment/Pasted image 20260924152019.png",
     "My Study/Backend/For Revision/Advanced Csharp/Entity Framework Revision.md",
+    "My Study/Backend/Route Academy Notes/Assignments/Entity Framwork 01 Assignment.md",
+    "My Study/Backend/For Revision/Advanced Csharp/Query and Fluent Expression.md",
+    "My Study/Backend/For Revision/Advanced Csharp/Using Select in Fluent Expression.md",
+    "My Study/Backend/For Revision/Advanced Csharp/IQueryable vs IEnumerable.md",
     "Excalidraw/Drawing 2026-09-22 04.40.41.excalidraw.md",
     "Attachment/Pasted image 20260922080300.png",
     "Attachment/Pasted image 20260922075752.png",
     "Attachment/Pasted image 20260922075735.png",
     "Attachment/Pasted image 20260922075017.png",
-    "Attachment/Pasted image 20260922074935.png",
-    "Attachment/Pasted image 20260922074900.png",
-    "Attachment/Pasted image 20260922053546.png",
-    "DataView/Dashboard.md",
-    "Attachment/Pasted image 20260922044758.png",
-    "My Study/Backend/For Revision/Advanced Csharp/LINQ Revision.md",
     "My Study/Backend/For Revision/Advanced Csharp/Extension Method.md",
-    "Daily Notes/2026-09-21.md",
-    "Daily Notes/Study and Revision LINQ.md",
-    "Daily Notes/Revision Some Concepts in ASP.NET.md",
-    "My Study/Backend/For Revision/Advanced Csharp/Query and Fluent Expression.md",
-    "Daily Notes/Study Entity Framework Sessions 1,2 and Practice.md",
-    "Daily Notes/Study Jenkins 2 Or 1 Session At Least.md",
-    "l.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Attachment/Pasted image 20260905072031.png",
     "Text Document جديد.txt",
-    "DEPI/Study/DevOps/Summaries.md",
-    "DEPI/Study/DevOps/DEPI - DevOps - Session 8 - Summary.md",
-    "DEPI/Study/DevOps/DEPI - DevOps - Session 5 - Summary.md",
-    "DEPI/Study/DevOps/DEPI - DevOps - Session 7 - Summary.md",
-    "DEPI/Study/DevOps/Exam.md",
-    "DEPI/Study/DevOps/DEPI - DevOps - Session 4 - Summary.md",
-    "DEPI/Study/DevOps/DEPI - DevOps - Session 3 - Summary.md",
-    "DEPI/Study/DevOps/DEPI - DevOps - Session 2 - Summary.md",
-    "DEPI/Study/DevOps/DEPI - DevOps - Session 9 - Summary.md",
-    "DEPI/Assignment/DevOps/Git Assignmnet.md",
-    "Attachment/Screenshot 2026-09-17 110315.png",
-    "DEPI/Study/DevOps/DEPI - DevOps - Session 1 - Summary.md",
     "Preparing To Master",
     "DEPI/Study/DevOps/Kubernates",
     "TaskNotes/Views/kanban-default.base",
-    "My Study/Backend/For Revision/Core Concept/Git & Github",
-    "My Study/Backend/Laravel",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/tasks-default.base",
     "Attachment/Untitled.canvas",
-    "Attachment/Untitled.base",
     "Untitled.canvas"
   ]
 }

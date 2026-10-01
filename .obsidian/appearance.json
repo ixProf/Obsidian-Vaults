@@ -1,9 +1,9 @@
 {
-  "interfaceFontFamily": "Comic Sans MS,PanoramaNaskh",
-  "textFontFamily": "Delius,PanoramaNaskh",
+  "interfaceFontFamily": "Delius,PanoramaNaskh",
+  "textFontFamily": "Delius,(A) Arslan Wessam A,PanoramaNaskh",
   "nativeMenus": false,
   "theme": "obsidian",
   "accentColor": "",
-  "cssTheme": "Heboric",
-  "baseFontSize": 14
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 20
 }
