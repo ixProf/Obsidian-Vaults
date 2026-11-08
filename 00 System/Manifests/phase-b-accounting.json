@@ -1,0 +1,218 @@
+{
+  "missing": [],
+  "movedChanged": [
+    {
+      "old": "DEPI/Study/DevOps/Summaries.md",
+      "new": "30 Sources/DEPI/Study/DevOps/Summaries.md"
+    },
+    {
+      "old": "My Master/Dashboard.md",
+      "new": "30 Sources/Other Sources/My Master/Dashboard.md"
+    },
+    {
+      "old": "My Study/202601141619.md",
+      "new": "20 Zettelkasten/Reference Notes/Obsidian 1.11 Release Notes.md"
+    },
+    {
+      "old": "My Study/Backend/Dot NET Resource/DOT NET.md",
+      "new": "30 Sources/Documentation/Dot NET Resource/DOT NET.md"
+    },
+    {
+      "old": "My Study/Backend/For Revision/C#/Csharp.md",
+      "new": "30 Sources/Other Sources/Backend/For Revision/C#/Csharp.md"
+    },
+    {
+      "old": "My Study/Backend/For Revision/Core Concept/Prompt.md",
+      "new": "20 Zettelkasten/Reference Notes/Prompt.md"
+    },
+    {
+      "old": "My Study/Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Reliability.md",
+      "new": "20 Zettelkasten/Literature Notes/DDIA/Chapter 1/DDIA — Reliability.md"
+    },
+    {
+      "old": "My Study/Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 1/Scalability and Maintainability.md",
+      "new": "20 Zettelkasten/Literature Notes/DDIA/Chapter 1/DDIA — Scalability and Maintainability.md"
+    },
+    {
+      "old": "My Study/Backend/For Study/System Design/Designing Data Intensive Applications/Chapter 2/SQL vs NoSQL.md",
+      "new": "20 Zettelkasten/Literature Notes/DDIA/Chapter 2/DDIA — SQL vs NoSQL.md"
+    },
+    {
+      "old": "My Study/College/University.md",
+      "new": "30 Sources/College/README.md"
+    },
+    {
+      "old": "My Study/College/Level 2/Level 2.md",
+      "new": "30 Sources/College/Level 2/Level 2.md"
+    },
+    {
+      "old": "My Study/College/Level 2/Data Structure with Python/Data Structure With Python.md",
+      "new": "30 Sources/College/Level 2/Data Structure with Python/Data Structure With Python.md"
+    },
+    {
+      "old": "My Study/College/Level 2/Data Structure with Python/Python Basics/Python Basics.md",
+      "new": "30 Sources/College/Level 2/Data Structure with Python/Python Basics/Python Basics.md"
+    },
+    {
+      "old": "My Study/College/Level 2/Database/Database.md",
+      "new": "30 Sources/College/Level 2/Database/Database.md"
+    },
+    {
+      "old": "My Study/College/Level 2/Database/Lectures/Lectures.md",
+      "new": "30 Sources/College/Level 2/Database/Lectures/Lectures.md"
+    },
+    {
+      "old": "My Study/College/Level 2/Database/SQL/SQL.md",
+      "new": "30 Sources/College/Level 2/Database/SQL/SQL.md"
+    },
+    {
+      "old": "My Study/College/Level 2/Probability and Statistics/Probability.md",
+      "new": "30 Sources/College/Level 2/Probability and Statistics/Probability.md"
+    },
+    {
+      "old": "My Study/College/Level 3/Level 3.md",
+      "new": "30 Sources/College/Level 3/Level 3.md"
+    },
+    {
+      "old": "My Study/College/Level 3/First Term/Network/Networks.md",
+      "new": "30 Sources/College/Level 3/First Term/Network/Networks.md"
+    },
+    {
+      "old": "My Study/College/Level 3/First Term/OS/OS.md",
+      "new": "30 Sources/College/Level 3/First Term/OS/OS.md"
+    },
+    {
+      "old": "My Study/College/Level 3/First Term/SE/SE.md",
+      "new": "30 Sources/College/Level 3/First Term/SE/SE.md"
+    },
+    {
+      "old": "My Study/College/Level 3/ITI/ITI.md",
+      "new": "30 Sources/Other Sources/ITI/ITI.md"
+    },
+    {
+      "old": "PDFs/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md",
+      "new": "20 Zettelkasten/Literature Notes/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md"
+    },
+    {
+      "old": "PDFs/System Design Interview by Alex Xu.md",
+      "new": "20 Zettelkasten/Literature Notes/System Design Interview by Alex Xu.md"
+    }
+  ],
+  "editedUnexpected": [
+    {
+      "path": ".obsidian/workspace.json",
+      "reason": "unexpected content change"
+    },
+    {
+      "path": "00 System/Dashboard.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Academic English MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Academic Studies MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/AI and Machine Learning MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Backend Engineering MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Computer Science MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Database Systems MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/DevOps and Infrastructure MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Distributed Systems MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Home.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Learning, Career and Personal MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Programming Languages MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Projects MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Research and Master's Prep MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/Software Engineering MOC.md",
+      "reason": "allowed edit"
+    },
+    {
+      "path": "10 Maps of Content/System Design MOC.md",
+      "reason": "allowed edit"
+    }
+  ],
+  "created": [
+    "00 System/Manifests/ambiguous-links.csv",
+    "00 System/Manifests/attachment-classification.csv",
+    "00 System/Manifests/frontmatter-audit.csv",
+    "00 System/Manifests/link-audit.csv",
+    "00 System/Manifests/phase-b-accounting.json",
+    "00 System/Manifests/phase-b-empty-shells-moved.json",
+    "00 System/Manifests/phase-b-link-resolution.json",
+    "00 System/Manifests/phase-b-link-rewrite-applied.csv",
+    "00 System/Manifests/phase-b-move-results.csv",
+    "00 System/Manifests/phase-b-moves.csv",
+    "00 System/Manifests/phase-b-path-links.csv",
+    "00 System/Manifests/phase-b-remainder-results.json",
+    "00 System/Manifests/phase-b-yaml-check.json",
+    "00 System/Manifests/phase-c-changes.csv",
+    "00 System/Manifests/phase-c-zettelkasten-metadata.csv",
+    "00 System/Manifests/unresolved-links.csv",
+    "00 System/Manifests/yaml-validation.csv",
+    "00 System/Migration Plan.md",
+    "00 System/Migration Progress.md",
+    "20 Zettelkasten/Fleeting Notes/README.md",
+    "20 Zettelkasten/Literature Notes/README.md",
+    "20 Zettelkasten/Permanent Notes/README.md",
+    "20 Zettelkasten/README.md",
+    "20 Zettelkasten/Reference Notes/README.md",
+    "30 Sources/Books/README.md",
+    "30 Sources/College/Level 4/Level 4.md",
+    "30 Sources/DEPI/README.md",
+    "30 Sources/Documentation/README.md",
+    "30 Sources/Other Sources/README.md",
+    "30 Sources/README.md",
+    "30 Sources/Research Papers/README.md",
+    "30 Sources/Route Academy/README.md",
+    "40 Projects/README.md",
+    "50 Areas/Career and Applications/README.md",
+    "50 Areas/Health and Fitness/README.md",
+    "50 Areas/README.md",
+    "50 Areas/Research and Master's Prep.md",
+    "90 Archive/Legacy/README.md",
+    "My Study/README.md"
+  ],
+  "counts": {
+    "manifest": 1398,
+    "current": 1437,
+    "unchanged": 1051,
+    "movedOk": 306
+  }
+}

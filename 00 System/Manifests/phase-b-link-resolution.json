@@ -1,0 +1,145 @@
+{
+  "unresolved": [
+    {
+      "file": "00 System/Conventions.md",
+      "target": "Note Name"
+    },
+    {
+      "file": "00 System/Conventions.md",
+      "target": "Folder/Note Name"
+    },
+    {
+      "file": "00 System/Conventions.md",
+      "target": "filename"
+    },
+    {
+      "file": "00 System/Migration Plan.md",
+      "target": "image"
+    },
+    {
+      "file": "00 System/Migration Plan.md",
+      "target": "filename"
+    },
+    {
+      "file": "00 System/Review Report.md",
+      "target": "create a link"
+    },
+    {
+      "file": "00 System/Review Report.md",
+      "target": "Lecture 1"
+    },
+    {
+      "file": "00 System/Review Report.md",
+      "target": "create a link"
+    },
+    {
+      "file": "20 Zettelkasten/Permanent Notes/README.md",
+      "target": "30 Sources/..."
+    },
+    {
+      "file": "20 Zettelkasten/README.md",
+      "target": "00 System/Knowledge Extraction Proposals"
+    },
+    {
+      "file": "20 Zettelkasten/Reference Notes/Obsidian 1.11 Release Notes.md",
+      "target": "link"
+    },
+    {
+      "file": "30 Sources/Documentation/Dot NET Resource/Dot NET Resource - Index.md",
+      "target": "Project Csharp"
+    },
+    {
+      "file": "30 Sources/Documentation/Dot NET Resource/DOT NET.md",
+      "target": "Camp"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Algorithms"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Data Structures"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Concurrency"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Operating Systems"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Networking"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Distributed Systems Fundamentals"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Consensus"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Replication"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Consistency"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Distributed Databases"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Fault Tolerance"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Papers Dashboard"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Research Ideas"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Literature Reviews"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Lamport - Time, Clocks, and the Ordering of Events"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "MIT 6.5840"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "DDIA"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Research Paper Reading"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Research Methodology"
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Dashboard.md",
+      "target": "Academic English"
+    },
+    {
+      "file": "90 Archive/Obsidian Defaults/Welcome.md",
+      "target": "create a link"
+    },
+    {
+      "file": "90 Archive/README.md",
+      "target": "..."
+    }
+  ],
+  "ambiguous": []
+}

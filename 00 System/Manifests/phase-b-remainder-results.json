@@ -1,0 +1,91 @@
+[
+  {
+    "op": {
+      "old": "20 Knowledge",
+      "new": "90 Archive/Legacy/20 Knowledge",
+      "kind": "dir",
+      "why": "Legacy knowledge layer archived intact"
+    },
+    "status": "OK",
+    "files": 13,
+    "bytes": 1389,
+    "hash": ""
+  },
+  {
+    "op": {
+      "old": "40 Personal",
+      "new": "90 Archive/Legacy/40 Personal",
+      "kind": "dir",
+      "why": "Personal layer folded into 50 Areas"
+    },
+    "status": "OK",
+    "files": 1,
+    "bytes": 783,
+    "hash": ""
+  },
+  {
+    "op": {
+      "old": "30 Sources/Other Sources/Backend/For Revision/Core Concept/Prompt.md",
+      "new": "20 Zettelkasten/Reference Notes/Prompt.md",
+      "kind": "file",
+      "why": "D18 reference material"
+    },
+    "status": "OK",
+    "files": 1,
+    "bytes": 10449,
+    "hash": "1140f930a0d7d9c17b9e87568c63d1fddbb72b7d775437db619c2722b46101ea"
+  },
+  {
+    "op": {
+      "old": "30 Sources/College/Level 3/Second Term/Software Requirements Analysis/Untitled.md",
+      "new": "99 Quarantine/Ambiguous/Software Requirements Analysis - Untitled.md",
+      "kind": "file",
+      "why": "Ambiguous content, cannot classify safely"
+    },
+    "status": "OK",
+    "files": 1,
+    "bytes": 1409,
+    "hash": "b889bcd124da06e9b3effb063d3b4b31bbf87187036496baabfca583fc5f8571"
+  },
+  {
+    "op": {
+      "old": "My Study/.obsidian",
+      "new": "99 Quarantine/My Study obsidian config",
+      "kind": "dir",
+      "why": "Stale nested vault config"
+    },
+    "status": "OK",
+    "files": 6,
+    "bytes": 10547,
+    "hash": ""
+  },
+  {
+    "op": {
+      "old": "30 Projects/Graduation Proposal - PostgreSQL Performance Analysis.md",
+      "new": "40 Projects/Graduation Proposal - PostgreSQL Performance Analysis.md",
+      "kind": "file",
+      "why": "Consolidate projects under 40 Projects"
+    },
+    "status": "OK",
+    "files": 1,
+    "bytes": 34902
+  },
+  {
+    "op": {
+      "old": "30 Projects/README.md",
+      "new": "90 Archive/Legacy/30 Projects README.md",
+      "kind": "file",
+      "why": "Legacy project layer README"
+    },
+    "status": "OK",
+    "files": 1,
+    "bytes": 813
+  },
+  {
+    "op": {
+      "old": "30 Projects",
+      "new": "99 Quarantine/My Study empty folders/30 Projects"
+    },
+    "status": "OK_EMPTY_SHELL"
+  }
+]

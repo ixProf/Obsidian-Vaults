@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Deferred Execution vs Eager Execution</title>
+<style>
+
+* { margin:0;padding:0;box-sizing:border-box; }
+body { background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;padding:24px;max-width:1000px;margin:0 auto;line-height:1.7; }
+h1 { color:#58a6ff;font-size:28px;margin:32px 0 12px; }
+h2 { color:#f0883e;font-size:22px;margin:28px 0 10px;border-bottom:1px solid #30363d;padding-bottom:8px; }
+h3 { color:#d2a8ff;font-size:17px;margin:24px 0 8px; }
+a { color:#58a6ff;text-decoration:none; }
+a:hover { text-decoration:underline; }
+strong { color:#f0f6fc; }
+code { background:#21262d;padding:2px 6px;border-radius:4px;font-size:.9em;font-family:'SFMono-Regular',Consolas,monospace; }
+pre { background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px;overflow:auto;margin:12px 0; }
+pre code { background:none;padding:0;border-radius:0; }
+table { width:100%;border-collapse:collapse;margin:12px 0;font-size:14px; }
+th { background:#161b22;color:#8b949e;padding:10px 8px;border-bottom:1px solid #30363d;text-align:left;font-weight:600; }
+td { padding:10px 8px;border-bottom:1px solid #21262d; }
+tr:hover { background:#161b22; }
+ul,ol { margin:8px 0;padding-left:24px; }
+li { margin:4px 0; }
+blockquote { border-left:3px solid #30363d;padding:8px 16px;margin:12px 0;color:#8b949e;background:#161b22;border-radius:0 8px 8px 0; }
+img { max-width:100%;border-radius:8px;margin:12px 0; }
+.mermaid-diagram { margin:16px 0;text-align:center;overflow-x:auto; }
+.mermaid-diagram svg { max-width:100%;height:auto; }
+hr { border:none;border-top:1px solid #30363d;margin:24px 0; }
+p { margin:12px 0; }
+@media (max-width:768px){body{padding:16px;}}
+</style>
+</head>
+<body>
+<h2>1) Deferred Execution</h2>
+<h3>التعريف</h3>
+<p>يعني الكويري أو العملية <strong>مش بتتنفذ وقت كتابة السطر</strong>  </p>
+<p>لكن <strong>بتتنفذ وقت الاستخدام الفعلي</strong>  </p>
+<p>زي وقت <code>foreach</code> أو <code>ToList()</code> أو <code>First()</code> حسب الحالة. </p>
+<h3>مثال</h3>
+<pre><code class="language-cs">List&lt;int&gt; nums = new List&lt;int&gt; { 1, 2, 3, 4, 5 };
+
+var result = nums.Where(x =&gt; x % 2 == 0);
+
+nums.Add(6);
+
+foreach (var item in result)
+{
+    Console.WriteLine(item);
+}</code></pre>
+<h3>الناتج</h3>
+<pre><code class="language-cs">2
+4
+6</code></pre>
+<h3>ليه؟</h3>
+<p>لأن <code>Where</code> هنا <strong>لسه متنفذتش</strong> وقت ما كتبتها  </p>
+<p>هي بس خزنت الكويري  </p>
+<p>ولما بدأت <code>foreach</code> اتنفذت على آخر نسخة من الداتا. </p>
+<hr>
+<h2>2) Eager Execution</h2>
+<h3>التعريف</h3>
+<p>يعني التنفيذ بيحصل <strong>فورًا</strong>  </p>
+<p>والنتيجة بتتخزن أو تتحدد من وقتها  </p>
+<p>مش بتستنى لحد ما تعمل iteration بعدين. </p>
+<h3>مثال</h3>
+<pre><code class="language-cs">List&lt;int&gt; nums = new List&lt;int&gt; { 1, 2, 3, 4, 5 };
+
+var result = nums.Where(x =&gt; x % 2 == 0).ToList();
+
+nums.Add(6);
+
+foreach (var item in result)
+{
+    Console.WriteLine(item);
+}</code></pre>
+<h3>الناتج</h3>
+<pre><code class="language-cs">2
+4</code></pre>
+<h3>ليه؟</h3>
+<p>لأن <code>ToList()</code> أجبرت الكويري إنها تتنفذ <strong>حالًا</strong>  </p>
+<p>فـ <code>result</code> بقت نسخة جاهزة  </p>
+<p>وأي تعديل بعد كده على <code>nums</code> مش هيأثر عليها. </p>
+<hr>
+<h1>الفكرة في سطر</h1>
+<ul><li><strong>Deferred</strong> = نفذ بعدين</li><li><strong>Eager</strong> = نفذ الآن</li></ul>
+<hr>
+<h1>الفرق بالتفصيل</h1>
+<h2>من حيث وقت التنفيذ</h2>
+<h3>Deferred</h3>
+<p>التنفيذ بيتأجل لحد أول استعمال فعلي.</p>
+<h3>Eager</h3>
+<p>التنفيذ بيتم وقت استدعاء العملية اللي بتجبر التنفيذ، زي <code>ToList()</code> و <code>ToArray()</code>، أو وقت operator بيرجع قيمة واحدة مثل <code>Count()</code> و <code>Max()</code> لأنه لازم يحسب النتيجة فورًا.</p>
+<hr>
+<h2>من حيث التعديل على الداتا الأصلية</h2>
+<h3>Deferred</h3>
+<p>بيشوف <strong>آخر نسخة</strong> من الداتا وقت التنفيذ. </p>
+<h3>Eager</h3>
+<p>بياخد snapshot وقت التنفيذ الفوري، وبعدها التعديلات الجديدة مش بتغير النتيجة المحسوبة.</p>
+<hr>
+<h2>من حيث استهلاك الذاكرة</h2>
+<h3>Deferred</h3>
+<p>غالبًا أوفر في الذاكرة لأنه مش لازم يكوّن collection جديدة مباشرة، وفي أفضل الحالات يمر مرة واحدة فقط على المصدر.</p>
+<h3>Eager</h3>
+<p>قد يستهلك ذاكرة أكثر لأنه بيعمل materialization للنتائج، مثل <code>ToList()</code> أو `ToArray()</p>
+<hr>
+<h2>من حيث الأداء</h2>
+<h3>Deferred</h3>
+<p>مفيد جدًا لو:</p>
+<ul><li>عندك سلسلة عمليات طويلة</li></ul>
+<ul><li>ومش محتاج كل النتائج مرة واحدة</li></ul>
+<p>    Microsoft تشير إلى أن deferred execution قد يحسن الأداء خصوصًا مع سلاسل التلاعب بالبيانات الكبيرة. </p>
+<ul><li>أو ممكن توقف بدري أثناء القراءة.</li></ul>
+<h3>Eager</h3>
+<p>أفضل لما:</p>
+<ul><li>عايز تثبت النتيجة الحالية</li></ul>
+<ul><li>أو تمنع إعادة الحساب كل مرة</li></ul>
+<p>    وبرضه بعض العمليات بطبيعتها تحتاج eager evaluation داخليًا، مثل <code>OrderBy</code> لأنه لا يقدر يحدد أول عنصر مرتب قبل ما يعرف بقية العناصر.</p>
+<ul><li>أو تحتاج collection جاهزة تتكرر عليها أكثر من مرة.</li></ul>
+<hr>
+<h1>نقطة مهمة جدًا</h1>
+<h2>Deferred Execution لا يعني دائمًا Lazy 100%</h2>
+<p>الـ deferred execution معناه إن التنفيذ متأجل  </p>
+<p>لكن <strong>طريقة التنفيذ بعد ما يبدأ</strong> ممكن تكون:</p>
+<h3>Lazy</h3>
+<p>يعني عنصر بعنصر  </p>
+<p>زي <code>Where</code> و <code>Select</code> غالبًا.</p>
+<h3>Eager داخليًا</h3>
+<p>يعني يتطلب معالجة المصدر كله أولًا  </p>
+<p>زي <code>OrderBy</code> غالبًا، لأنه يحتاج ترتيب البيانات قبل إخراج النتائج. Microsoft تذكر هذا المثال صراحة. </p>
+<p>يعني:</p>
+<ul><li><code>Deferred</code> = إمتى التنفيذ يبدأ</li></ul>
+<ul><li><code>Lazy / Eager evaluation</code> = إزاي التنفيذ يحصل بعد ما يبدأ</li></ul>
+<p>وده فرق مهم جدًا.</p>
+<hr>
+<h1>أمثلة على operators</h1>
+<h2>عمليات غالبًا Deferred</h2>
+<pre><code class="language-cs">Where()
+Select()
+Take()
+Skip()</code></pre>
+<p>دي عادة ترجع <code>IEnumerable&lt;T&gt;</code> وتنتظر لحد ما يحصل iteration.</p>
+<hr>
+<h2>عمليات غالبًا Eager / Immediate</h2>
+<pre><code class="language-cs">ToList()
+ToArray()
+Count()
+First()
+Max()
+Min()
+Sum()</code></pre>
+<p>دي إما:</p>
+<ul><li>بتجيب قيمة واحدة مباشرة</li></ul>
+<ul><li>أو بتحول النتيجة إلى collection جاهزة فورًا.</li></ul>
+<hr>
+<h1>مثال يوضح إعادة التنفيذ</h1>
+<pre><code class="language-cs">List&lt;int&gt; nums = new List&lt;int&gt; { 1, 2, 3, 4, 5 };
+
+var result = nums.Where(x =&gt; x &gt; 2);
+
+foreach (var item in result)
+{
+    Console.WriteLine(item);
+}
+
+Console.WriteLine(&quot;----&quot;);
+
+nums.Add(10);
+
+foreach (var item in result)
+{
+    Console.WriteLine(item);
+}</code></pre>
+<h3>الناتج</h3>
+<pre><code class="language-cs">3
+4
+5
+----
+3
+4
+5
+10</code></pre>
+<h3>ليه؟</h3>
+<p>لأن <code>result</code> deferred  </p>
+<p>فكل <code>foreach</code> ممكن تعيد تنفيذ الكويري من جديد على الداتا الحالية. هذا يتماشى مع فكرة أن التقييم يحدث عند الحاجة وليس عند تعريف الكويري. </p>
+<hr>
+<h1>نفس المثال مع Eager</h1>
+<pre><code class="language-cs">List&lt;int&gt; nums = new List&lt;int&gt; { 1, 2, 3, 4, 5 };
+
+var result = nums.Where(x =&gt; x &gt; 2).ToList();
+
+foreach (var item in result)
+{
+    Console.WriteLine(item);
+}
+
+Console.WriteLine(&quot;----&quot;);
+
+nums.Add(10);
+
+foreach (var item in result)
+{
+    Console.WriteLine(item);
+}</code></pre>
+<h3>الناتج</h3>
+<pre><code class="language-cs">3
+4
+5
+----
+3
+4
+5</code></pre>
+<h3>ليه؟</h3>
+<p>لأن <code>ToList()</code> نفذت الكويري مرة واحدة فقط وقت إنشائها، وبعدها النتيجة ثبتت. </p>
+<hr>
+<p>مصدر للمذاكرة لو بتحب تذاكر من الدوكيومنتس</p>
+<p>(<a href="https://www.c-sharpcorner.com/article/what-is-deferred-lazy-loading-and-eager-loading/?utm_source=chatgpt.com" title="What Is Deferred/ Lazy Loading And Eager Loading?">C# Corner</a>)</p>
+<hr>
+<h1>جدول ذهني سريع</h1>
+<table>
+<thead><tr><th>النقطة</th><th>Deferred Execution</th><th>Eager Execution</th></tr></thead>
+<tbody>
+<tr><td>وقت التنفيذ</td><td>عند الحاجة</td><td>فورًا</td></tr>
+<tr><td>التغيير في المصدر</td><td>يظهر عند التنفيذ</td><td>لا يظهر بعد أخذ النتيجة</td></tr>
+<tr><td>الذاكرة</td><td>أقل غالبًا</td><td>أكثر غالبًا</td></tr>
+<tr><td>إعادة الحساب</td><td>ممكن يحصل كل مرة</td><td>لا، بعد materialization</td></tr>
+<tr><td>أمثلة</td><td><code>Where</code>, <code>Select</code></td><td><code>ToList</code>, <code>ToArray</code>, <code>Count</code></td></tr>
+</tbody>
+</table>
+</body>
+</html>

@@ -1,9 +1,9 @@
 {
-  "interfaceFontFamily": "Delius,PanoramaNaskh",
-  "textFontFamily": "Delius,(A) Arslan Wessam A,PanoramaNaskh",
+  "interfaceFontFamily": "Delius,PanoramaNaskh,Arabic Typesetting",
+  "textFontFamily": "Delius,(A) Arslan Wessam A,Arial,PanoramaNaskh",
   "nativeMenus": false,
   "theme": "obsidian",
   "accentColor": "",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Obsidianite",
   "baseFontSize": 20
 }

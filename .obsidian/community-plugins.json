@@ -1,18 +1,22 @@
 [
   "obsidian-excalidraw-plugin",
-  "templater-obsidian",
   "dataview",
-  "obsidian-tasks-plugin",
   "calendar",
   "obsidian-git",
-  "obsidian-style-settings",
   "obsidian-kanban",
   "obsidian-icon-folder",
-  "homepage",
   "obsidian-mind-map",
   "obsidian-statusbar-pomo",
-  "tasknotes",
   "highlightr-plugin",
   "highlightr-plus",
-  "obsidian-languagetool-plugin"
+  "foxycape-pdf",
+  "obsidian-day-planner",
+  "card-board",
+  "tasks-calendar-wrapper",
+  "vault-graph",
+  "elton-reader-books",
+  "better-export-pdf",
+  "harper",
+  "powereditor",
+  "md-to-html-effect"
 ]

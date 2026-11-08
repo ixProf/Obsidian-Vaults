@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: View
+    sort:
+      - property: file.name
+        direction: ASC

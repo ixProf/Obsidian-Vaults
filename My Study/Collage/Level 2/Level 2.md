@@ -1,5 +1,0 @@
-[[Data Structure With Python]]
-[[Database]]
-[[Probability]]
-[[System]]
-[[المادة الي عاملة نفسها مادة]]

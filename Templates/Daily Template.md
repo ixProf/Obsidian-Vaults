@@ -1,4 +1,10 @@
-# 📅 <% tp.date.now("dddd DD MMMM YYYY") %>
+---
+type: daily
+date: {{date:YYYY-MM-DD}}
+tags: []
+---
+
+# 📅 {{date:dddd DD MMMM YYYY}}
 
 ## 🎯 هدف النهارده
 - 

@@ -1,0 +1,43 @@
+{
+  "version": "0.13.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 0,
+              "limit": 10,
+              "name": "Planned"
+            }
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "Study",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "defaultColumnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "otherTags": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "filters": [],
+      "firstDayOfWeek": "FromLocale",
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": true
+    }
+  }
+}
