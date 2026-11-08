@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-11-08T12:45:45.486Z",
+  "links": 30,
+  "uniquePdfs": 3,
+  "pageLinks": 25,
+  "metadataLinks": 5,
+  "unresolvedTargets": 0,
+  "pageIssues": [],
+  "pageCounts": {
+    "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf": 31,
+    "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf": 494,
+    "30 Sources/Books/System Design Interview by Alex Xu.pdf": 269
+  },
+  "results": [
+    {
+      "file": "00 System/Review Report.md",
+      "target": "Lecture 1.pdf#page=...",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": null
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md",
+      "target": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "resolved": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": 494,
+      "pageOk": null
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md",
+      "target": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "resolved": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": 494,
+      "pageOk": null
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md",
+      "target": "Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf#page=91&selection=22,0,25,83&markId=85f5a5934dc9a780|↗",
+      "resolved": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "page": 91,
+      "pageEnd": null,
+      "pdfPages": 494,
+      "pageOk": true
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/System Design Interview by Alex Xu.md",
+      "target": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "resolved": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": 269,
+      "pageOk": null
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/System Design Interview by Alex Xu.md",
+      "target": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "resolved": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": 269,
+      "pageOk": null
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=2&selection=4,0,27,28&markId=6982234c985e1d5b|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 2,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=3&selection=4,0,4,51&markId=4860df6091b4ecd5|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 3,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=5&selection=4,0,69,45&markId=d76714bc3dd9b6de|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 5,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=6,0,18,9&markId=16f4b0e12717e059|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=22,4,24,10&markId=524160cecf00d3e0|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=28,0,32,31&markId=66ba00afa8e56618|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=38,0,40,35&markId=8524307263f1c85d|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=46,0,50,28&markId=1f53f02537417771|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=58,0,67,10&markId=2f1fa39fbcfef696|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=9&selection=2,0,52,46&markId=6f8707949fbacee6|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 9,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=10&selection=10,0,46,11&markId=9fc76c7226519aed|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 10,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=14&selection=4,0,6,49&markId=6fe32b59695fb4ae|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 14,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=4,50,7,4&markId=733ca43d979e99d8|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=7,10,7,33&markId=b58d24ed8eecbdf4|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=17,4,37,36&markId=b49a1887a273169c|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=41,0,43,16&markId=1f6b13c0d8a2c8bb|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=47,0,47,46&markId=f4a5e96cd5a1100b|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=15&selection=4,3,7,15&markId=57a68313139cfd69|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 15,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=15&selection=11,3,14,20&markId=1fbd7aeda6a0d599|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 15,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=15&selection=18,5,23,14&markId=f2be81354301a71|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 15,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=25&selection=4,0,9,8&markId=976a8c6206092baa|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 25,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=25&selection=13,0,35,56&markId=f4c09643a2d617ab|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 25,
+      "pageEnd": null,
+      "pdfPages": 31,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Roadmap/Load Balancer in Web Applications.md",
+      "target": "System Design Interview by Alex Xu.pdf#page=11&selection=0,0,0,46&markId=73a7aae593a710ac|↗",
+      "resolved": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": 269,
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Roadmap/Load Balancer in Web Applications.md",
+      "target": "System Design Interview by Alex Xu.pdf#page=11&selection=0,48,1,26&markId=723d9c524ce15855|↗",
+      "resolved": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": 269,
+      "pageOk": true
+    }
+  ]
+}

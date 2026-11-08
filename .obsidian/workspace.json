@@ -259,8 +259,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0dce5b6c89cbd248",
+  "active": "8a126b6cacee1eff",
   "lastOpenFiles": [
+    "00 System/Manifests/phase-g-pdf-verification.json",
+    "00 System/Manifests/phase-g-audit.json",
     "Templates/Reference Note.md",
     "DataView/Dataview Dashboard.md",
     "Excalidraw/Drawing 2026-07-16 18.43.09.excalidraw.md",
@@ -291,14 +293,12 @@
     "20 Zettelkasten/Literature Notes/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md",
     "20 Zettelkasten/Fleeting Notes/README.md",
     "10 Maps of Content/System Design MOC.md",
-    "10 Maps of Content/Software Engineering MOC.md",
     "00 System/Manifests/frontmatter-audit.csv",
     "00 System/Manifests/ambiguous-links.csv",
     "00 System/Manifests/unresolved-links.csv",
     "00 System/Manifests/link-audit.csv",
     "My Study/بيانات درجات المستوى الثاني.jpg",
     "00 System/Manifests/phase-b-link-resolution.json",
-    "My Study/Backend/For Revision/Advanced Csharp/Entity Framework Revision.html",
     "Attachment/Pasted image 20261025174223.png",
     "Attachment/Pasted image 20261025174200.png",
     "Attachment/Pasted image 20261025174145.png",

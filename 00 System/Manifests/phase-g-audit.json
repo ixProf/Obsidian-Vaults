@@ -1,0 +1,1151 @@
+{
+  "generatedAt": "2026-11-08T12:39:16.018Z",
+  "files": {
+    "total": 1158,
+    "md": 426,
+    "images": 657,
+    "pdfs": 13,
+    "attachments": {
+      "images": 657,
+      "md": 10,
+      "galleries": 10
+    },
+    "legacyAttachmentImages": 0,
+    "myStudyImages": 0
+  },
+  "yaml": {
+    "mdCount": 426,
+    "valid": 404,
+    "empty": [
+      {
+        "file": "30 Sources/College/Level 2/Probability and Statistics/Probability and Statistics - Chapter 6.md",
+        "bytes": 0
+      },
+      {
+        "file": "30 Sources/DEPI/Study/DevOps/DEPI - DevOps - Session 9 - Summary.md",
+        "bytes": 0
+      },
+      {
+        "file": "30 Sources/Other Sources/Backend/For Revision/Advanced Csharp/Using Select in Fluent Expression.md",
+        "bytes": 0
+      },
+      {
+        "file": "30 Sources/Other Sources/Backend/For Study/Elasticshare.md",
+        "bytes": 0
+      },
+      {
+        "file": "30 Sources/Other Sources/My Master/Roadmap/Week 0/What's Distributed System.md",
+        "bytes": 0
+      },
+      {
+        "file": "30 Sources/Other Sources/My Master/Roadmap/Week 0/What's Research Paper.md",
+        "bytes": 0
+      },
+      {
+        "file": "30 Sources/Route Academy/tst.md",
+        "bytes": 0
+      },
+      {
+        "file": "40 Projects/POS/Untitled 1.md",
+        "bytes": 0
+      },
+      {
+        "file": "90 Archive/Empty Notes/2026-05-16.md",
+        "bytes": 0
+      },
+      {
+        "file": "90 Archive/Empty Notes/2026-09-14.md",
+        "bytes": 0
+      },
+      {
+        "file": "90 Archive/Empty Notes/202610230621.md",
+        "bytes": 0
+      },
+      {
+        "file": "90 Archive/Empty Notes/My Study 202601220341.md",
+        "bytes": 0
+      },
+      {
+        "file": "90 Archive/Empty Notes/My Study M.md",
+        "bytes": 0
+      },
+      {
+        "file": "90 Archive/Empty Notes/Untitled 1.md",
+        "bytes": 0
+      },
+      {
+        "file": "90 Archive/Empty Notes/Untitled.md",
+        "bytes": 0
+      },
+      {
+        "file": "create a link.md",
+        "bytes": 0
+      },
+      {
+        "file": "Daily Notes/BrainStorm.md",
+        "bytes": 0
+      },
+      {
+        "file": "TaskNotes/Session Agenda.md",
+        "bytes": 0
+      }
+    ],
+    "noFrontmatter": [
+      "30 Sources/Other Sources/Backend/For Revision/C#/OOP Interviews Questions.md",
+      "90 Archive/Obsidian Defaults/Welcome.md",
+      "Heatmap/GoLang Heatmap 2026.md",
+      "TaskNotes/Start Here.md"
+    ],
+    "invalid": []
+  },
+  "links": {
+    "links": 923,
+    "embeds": 1200,
+    "total": 2123,
+    "resolved": 2114,
+    "ambiguous": 0,
+    "skipped": 0,
+    "unresolvedCount": 9,
+    "unresolved": [
+      {
+        "file": "00 System/Conventions.md",
+        "target": "Note Name",
+        "embed": false
+      },
+      {
+        "file": "00 System/Conventions.md",
+        "target": "Folder/Note Name|Display text",
+        "embed": false
+      },
+      {
+        "file": "00 System/Conventions.md",
+        "target": "filename",
+        "embed": true
+      },
+      {
+        "file": "00 System/Migration Plan.md",
+        "target": "image",
+        "embed": true
+      },
+      {
+        "file": "00 System/Migration Plan.md",
+        "target": "filename",
+        "embed": true
+      },
+      {
+        "file": "20 Zettelkasten/Reference Notes/Obsidian 1.11 Release Notes.md",
+        "target": "link",
+        "embed": false
+      },
+      {
+        "file": "30 Sources/Documentation/Dot NET Resource/Dot NET Resource - Index.md",
+        "target": "Project Csharp",
+        "embed": false
+      },
+      {
+        "file": "30 Sources/Documentation/Dot NET Resource/DOT NET.md",
+        "target": "Camp",
+        "embed": false
+      },
+      {
+        "file": "90 Archive/README.md",
+        "target": "...",
+        "embed": false
+      }
+    ],
+    "ambiguousList": []
+  },
+  "pdfLinks": [
+    {
+      "file": "00 System/Review Report.md",
+      "target": "Lecture 1.pdf#page=...",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": null
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md",
+      "target": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "resolved": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 0,
+        "pageObjs": 9
+      },
+      "pageOk": null
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md",
+      "target": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "resolved": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 0,
+        "pageObjs": 9
+      },
+      "pageOk": null
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).md",
+      "target": "Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf#page=91&selection=22,0,25,83&markId=85f5a5934dc9a780|↗",
+      "resolved": "30 Sources/Books/Learning Go An Idiomatic Approach to Real-world Go Programming, 2nd Edition (Jon Bodner) (Z-Library).pdf",
+      "page": 91,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 0,
+        "pageObjs": 9
+      },
+      "pageOk": false
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/System Design Interview by Alex Xu.md",
+      "target": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "resolved": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 269,
+        "pageObjs": 275
+      },
+      "pageOk": null
+    },
+    {
+      "file": "20 Zettelkasten/Literature Notes/System Design Interview by Alex Xu.md",
+      "target": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "resolved": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "page": null,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 269,
+        "pageObjs": 275
+      },
+      "pageOk": null
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=2&selection=4,0,27,28&markId=6982234c985e1d5b|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 2,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=3&selection=4,0,4,51&markId=4860df6091b4ecd5|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 3,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=5&selection=4,0,69,45&markId=d76714bc3dd9b6de|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 5,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=6,0,18,9&markId=16f4b0e12717e059|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=22,4,24,10&markId=524160cecf00d3e0|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=28,0,32,31&markId=66ba00afa8e56618|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=38,0,40,35&markId=8524307263f1c85d|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=46,0,50,28&markId=1f53f02537417771|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=6&selection=58,0,67,10&markId=2f1fa39fbcfef696|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 6,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=9&selection=2,0,52,46&markId=6f8707949fbacee6|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 9,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=10&selection=10,0,46,11&markId=9fc76c7226519aed|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 10,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=14&selection=4,0,6,49&markId=6fe32b59695fb4ae|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 14,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=4,50,7,4&markId=733ca43d979e99d8|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=7,10,7,33&markId=b58d24ed8eecbdf4|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=17,4,37,36&markId=b49a1887a273169c|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=41,0,43,16&markId=1f6b13c0d8a2c8bb|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=11&selection=47,0,47,46&markId=f4a5e96cd5a1100b|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=15&selection=4,3,7,15&markId=57a68313139cfd69|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 15,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=15&selection=11,3,14,20&markId=1fbd7aeda6a0d599|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 15,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=15&selection=18,5,23,14&markId=f2be81354301a71|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 15,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=25&selection=4,0,9,8&markId=976a8c6206092baa|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 25,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/College/Level 4/Intro to Computer Security/Computer Security - Lecture 1.md",
+      "target": "Lecture 1.pdf#page=25&selection=13,0,35,56&markId=f4c09643a2d617ab|↗",
+      "resolved": "30 Sources/College/Level 4/Intro to Computer Security/Lecture 1.pdf",
+      "page": 25,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 31,
+        "pageObjs": 31
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Roadmap/Load Balancer in Web Applications.md",
+      "target": "System Design Interview by Alex Xu.pdf#page=11&selection=0,0,0,46&markId=73a7aae593a710ac|↗",
+      "resolved": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 269,
+        "pageObjs": 275
+      },
+      "pageOk": true
+    },
+    {
+      "file": "30 Sources/Other Sources/My Master/Roadmap/Load Balancer in Web Applications.md",
+      "target": "System Design Interview by Alex Xu.pdf#page=11&selection=0,48,1,26&markId=723d9c524ce15855|↗",
+      "resolved": "30 Sources/Books/System Design Interview by Alex Xu.pdf",
+      "page": 11,
+      "pageEnd": null,
+      "pdfPages": {
+        "maxCount": 269,
+        "pageObjs": 275
+      },
+      "pageOk": true
+    }
+  ],
+  "duplicates": {
+    "basenameGroups": 4,
+    "basenameDupes": [
+      {
+        "base": "dashboard",
+        "files": [
+          "00 System/Dashboard.md",
+          "30 Sources/Other Sources/My Master/Dashboard.md"
+        ]
+      },
+      {
+        "base": "readme",
+        "files": [
+          "01 Inbox/README.md",
+          "20 Zettelkasten/Fleeting Notes/README.md",
+          "20 Zettelkasten/Literature Notes/README.md",
+          "20 Zettelkasten/Permanent Notes/README.md",
+          "20 Zettelkasten/README.md",
+          "20 Zettelkasten/Reference Notes/README.md",
+          "30 Sources/Books/README.md",
+          "30 Sources/College/README.md",
+          "30 Sources/DEPI/README.md",
+          "30 Sources/Documentation/README.md",
+          "30 Sources/Other Sources/README.md",
+          "30 Sources/README.md",
+          "30 Sources/Research Papers/README.md",
+          "30 Sources/Route Academy/README.md",
+          "40 Projects/README.md",
+          "50 Areas/Career and Applications/README.md",
+          "50 Areas/Health and Fitness/README.md",
+          "50 Areas/README.md",
+          "90 Archive/Legacy/20 Knowledge/README.md",
+          "90 Archive/Legacy/40 Personal/README.md",
+          "90 Archive/Legacy/README.md",
+          "90 Archive/README.md",
+          "99 Quarantine/README.md",
+          "Attachment/README.md",
+          "Attachments/README.md",
+          "My Study/README.md",
+          "README.md"
+        ]
+      },
+      {
+        "base": "untitled 1",
+        "files": [
+          "40 Projects/POS/Untitled 1.md",
+          "90 Archive/Empty Notes/Untitled 1.md"
+        ]
+      },
+      {
+        "base": "untitled",
+        "files": [
+          "40 Projects/POS/Untitled.md",
+          "90 Archive/Empty Notes/Untitled.md"
+        ]
+      }
+    ],
+    "contentGroups": 2,
+    "contentDupes": [
+      {
+        "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "files": [
+          "30 Sources/College/Level 2/Probability and Statistics/Probability and Statistics - Chapter 6.md",
+          "30 Sources/DEPI/Study/DevOps/DEPI - DevOps - Session 9 - Summary.md",
+          "30 Sources/Other Sources/Backend/For Revision/Advanced Csharp/Using Select in Fluent Expression.md",
+          "30 Sources/Other Sources/Backend/For Study/Elasticshare.md",
+          "30 Sources/Other Sources/My Master/Roadmap/Week 0/What's Distributed System.md",
+          "30 Sources/Other Sources/My Master/Roadmap/Week 0/What's Research Paper.md",
+          "30 Sources/Route Academy/tst.md",
+          "40 Projects/POS/Untitled 1.md",
+          "90 Archive/Empty Notes/2026-05-16.md",
+          "90 Archive/Empty Notes/2026-09-14.md",
+          "90 Archive/Empty Notes/202610230621.md",
+          "90 Archive/Empty Notes/My Study 202601220341.md",
+          "90 Archive/Empty Notes/My Study M.md",
+          "90 Archive/Empty Notes/Untitled 1.md",
+          "90 Archive/Empty Notes/Untitled.md",
+          "create a link.md",
+          "Daily Notes/BrainStorm.md",
+          "TaskNotes/Session Agenda.md"
+        ]
+      },
+      {
+        "hash": "0BC3AADA35CE9020264FADBEAC80284E316E911C29867541DC1864FF5E3690F2",
+        "files": [
+          "30 Sources/Other Sources/My Master/Scholarships.md",
+          "90 Archive/Duplicates/Scholarships (Researches copy).md"
+        ]
+      }
+    ],
+    "baseline": {
+      "basenameGroups": 4,
+      "contentGroups": 2,
+      "newBasenameGroups": [],
+      "changedBasenameGroups": [
+        {
+          "base": "readme",
+          "files": [
+            "01 Inbox/README.md",
+            "20 Zettelkasten/Fleeting Notes/README.md",
+            "20 Zettelkasten/Literature Notes/README.md",
+            "20 Zettelkasten/Permanent Notes/README.md",
+            "20 Zettelkasten/README.md",
+            "20 Zettelkasten/Reference Notes/README.md",
+            "30 Sources/Books/README.md",
+            "30 Sources/College/README.md",
+            "30 Sources/DEPI/README.md",
+            "30 Sources/Documentation/README.md",
+            "30 Sources/Other Sources/README.md",
+            "30 Sources/README.md",
+            "30 Sources/Research Papers/README.md",
+            "30 Sources/Route Academy/README.md",
+            "40 Projects/README.md",
+            "50 Areas/Career and Applications/README.md",
+            "50 Areas/Health and Fitness/README.md",
+            "50 Areas/README.md",
+            "90 Archive/Legacy/20 Knowledge/README.md",
+            "90 Archive/Legacy/40 Personal/README.md",
+            "90 Archive/Legacy/README.md",
+            "90 Archive/README.md",
+            "99 Quarantine/README.md",
+            "Attachment/README.md",
+            "Attachments/README.md",
+            "My Study/README.md",
+            "README.md"
+          ]
+        }
+      ],
+      "newContentGroups": [],
+      "changedContentGroups": []
+    }
+  },
+  "mocs": {
+    "count": 15,
+    "files": [
+      {
+        "file": "10 Maps of Content/Academic English MOC.md",
+        "links": 5,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Academic Studies MOC.md",
+        "links": 34,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/AI and Machine Learning MOC.md",
+        "links": 16,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Backend Engineering MOC.md",
+        "links": 37,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Computer Science MOC.md",
+        "links": 21,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Database Systems MOC.md",
+        "links": 35,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/DevOps and Infrastructure MOC.md",
+        "links": 35,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Distributed Systems MOC.md",
+        "links": 19,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Home.md",
+        "links": 34,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Learning, Career and Personal MOC.md",
+        "links": 21,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Programming Languages MOC.md",
+        "links": 39,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Projects MOC.md",
+        "links": 19,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Research and Master's Prep MOC.md",
+        "links": 36,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/Software Engineering MOC.md",
+        "links": 23,
+        "type": "moc"
+      },
+      {
+        "file": "10 Maps of Content/System Design MOC.md",
+        "links": 17,
+        "type": "moc"
+      }
+    ],
+    "unresolved": [],
+    "notMocType": [],
+    "empty": []
+  },
+  "layers": {
+    "00 System": {
+      "md": 11,
+      "types": {
+        "system": 11
+      }
+    },
+    "01 Inbox": {
+      "md": 3,
+      "types": {
+        "fleeting": 2,
+        "system": 1
+      }
+    },
+    "10 Maps of Content": {
+      "md": 15,
+      "types": {
+        "moc": 15
+      }
+    },
+    "20 Zettelkasten": {
+      "md": 20,
+      "types": {
+        "system": 5,
+        "literature": 5,
+        "permanent": 8,
+        "reference": 2
+      }
+    },
+    "30 Sources": {
+      "md": 272,
+      "types": {
+        "source": 241,
+        "index": 15,
+        "project": 5,
+        "(none)": 9,
+        "system": 2
+      }
+    },
+    "40 Projects": {
+      "md": 11,
+      "types": {
+        "project": 8,
+        "(none)": 2,
+        "system": 1
+      }
+    },
+    "50 Areas": {
+      "md": 10,
+      "types": {
+        "source": 6,
+        "area": 3,
+        "system": 1
+      }
+    },
+    "90 Archive": {
+      "md": 14,
+      "types": {
+        "source": 1,
+        "(none)": 8,
+        "system": 5
+      }
+    },
+    "99 Quarantine": {
+      "md": 2,
+      "types": {
+        "source": 1,
+        "system": 1
+      }
+    },
+    "Attachment": {
+      "md": 4,
+      "types": {
+        "system": 1,
+        "source": 1,
+        "(none)": 2
+      }
+    },
+    "Attachments": {
+      "md": 10,
+      "types": {
+        "index": 10
+      }
+    },
+    "create a link.md": {
+      "md": 1,
+      "types": {
+        "(none)": 1
+      }
+    },
+    "Daily Notes": {
+      "md": 3,
+      "types": {
+        "daily": 2,
+        "(none)": 1
+      }
+    },
+    "DataView": {
+      "md": 1,
+      "types": {
+        "system": 1
+      }
+    },
+    "Excalidraw": {
+      "md": 19,
+      "types": {
+        "(none)": 19
+      }
+    },
+    "Heatmap": {
+      "md": 1,
+      "types": {
+        "(none)": 1
+      }
+    },
+    "My Study": {
+      "md": 1,
+      "types": {
+        "system": 1
+      }
+    },
+    "README.md": {
+      "md": 1,
+      "types": {
+        "system": 1
+      }
+    },
+    "TaskNotes": {
+      "md": 18,
+      "types": {
+        "(none)": 18
+      }
+    },
+    "Tasks": {
+      "md": 1,
+      "types": {
+        "(none)": 1
+      }
+    },
+    "Templates": {
+      "md": 8,
+      "types": {
+        "daily": 1,
+        "fleeting": 1,
+        "literature": 1,
+        "moc": 1,
+        "paper": 1,
+        "permanent": 1,
+        "project": 1,
+        "reference": 1
+      }
+    }
+  },
+  "protected": {
+    "total": 60,
+    "match": 59,
+    "mismatches": [
+      {
+        "path": "Templates\\MOC.md",
+        "expected": "8A46133833369ED605417DFEF9B6D5B5BC2AA5F4B9B36551E426BE48B09BBCA3",
+        "actual": "40166F7CD880C6A58BD32C60D542711EBAC6FA65C04FAA070EAB92B1E83738EA"
+      }
+    ],
+    "missing": []
+  },
+  "accounting": {
+    "baseline": 1439,
+    "unchanged": 757,
+    "modified": [
+      {
+        "path": ".obsidian\\app.json",
+        "expected": "6DE5C533D5D704C6EF2CFCDB1DBB91F6F107FC102C1ED74AA2F63A2506E4214B",
+        "actual": "48852C861ABEC7D9B091F5AA2D23873B6859685D476E222BA25551C5DF143CE1"
+      },
+      {
+        "path": ".obsidian\\workspace.json",
+        "expected": "D362C7B9526A5048F38E0EA2B5AF3A04476636E219661A38AFC9F70999CC5012",
+        "actual": "323CCE007D736873109ADB76AB7727C0C48C0FEA92A14C221AF6BF6C3837CA78"
+      },
+      {
+        "path": "00 System\\Dashboard.md",
+        "expected": "ECBC8B746A1F70382C66EDBFC261755F4904D186E75DE362B55D494CF22C8B3C",
+        "actual": "F3640C121D58044AD308CCAED23CE52B2B8A6608D35448F40E8A5AE7FD79CDD4"
+      },
+      {
+        "path": "00 System\\Migration Plan.md",
+        "expected": "366FF326BFEE12262FF88BBF046E42BC8DC6F8A9A51B7E70E5F4A24D97EE101F",
+        "actual": "86E9B562E4199E25312A77C3B437303E4648F6296A9601CCEA42119200ED474A"
+      },
+      {
+        "path": "00 System\\Migration Progress.md",
+        "expected": "09356983093E2F7803CD459D6723C25425C523488836835A5E69FA5FE56B1FFC",
+        "actual": "42A174DF5EB6506868F2BB581F5D6B94BDFE097B690C8D0584F5A874E719452A"
+      },
+      {
+        "path": "00 System\\Dashboards\\Metadata Gaps.md",
+        "expected": "EEF0EA1A6058BF04FDA230840058C3E3BA8CA13F5857B06BB02DFC47B879B37F",
+        "actual": "4EA4D21BFFACE24AB325745D40E71990B83875E74C4BD9DD8BBDCC532A5AFAC3"
+      },
+      {
+        "path": "00 System\\Dashboards\\Orphan Notes.md",
+        "expected": "B4A00E9A5E2505F2796889A18AD4754611D2CF0959D48B1182D1402FCF846E2A",
+        "actual": "C53246D887CFFFC2D10CB58844C6D46F248EC25486218F8AD94CEA7DB2885D19"
+      },
+      {
+        "path": "00 System\\Dashboards\\Recent Changes.md",
+        "expected": "84DFDD4B13BDE8DBF0609721264DEC560D7EA277E29F5BEE3AD9A9C68E1DD79A",
+        "actual": "E9527063D638FF00E2D199FBCB68E1838D480182E0F633D799AB21A3753D728A"
+      },
+      {
+        "path": "10 Maps of Content\\Academic English MOC.md",
+        "expected": "7AF8B092B5CDCCE90B5A8DEC6F7FF05B045E228AD13B52B7191BD1D8DAB7D1F2",
+        "actual": "AD03F8A9E090069E9C6E037E5A6BE37091371CF8D7EAC2274D334C1C2C2E76DA"
+      },
+      {
+        "path": "10 Maps of Content\\Academic Studies MOC.md",
+        "expected": "A086AA4737B6CC8E7B935AE2DF59217B46C4561A2DA804FB02515984B0D86114",
+        "actual": "EFEBB152FADEDFA09A01D2E963DAC54FF53C2183DF576BFFE92288E659AA369B"
+      },
+      {
+        "path": "10 Maps of Content\\AI and Machine Learning MOC.md",
+        "expected": "0C3B24AF6C8D71CFB33DF0D7B41DC4FA96EC70629CF9AA0E48786D5BA8475281",
+        "actual": "1F9F7C3DEC0A34CF7A9CCFC7CBDAB507BAA6C4EF3BAC0627F1F044374CDB5F7F"
+      },
+      {
+        "path": "10 Maps of Content\\Backend Engineering MOC.md",
+        "expected": "056DDA950305732096E21DF3C402BDF4BEFFB767D02219A1A941F5B40557200F",
+        "actual": "261CB79CE57D93E9928B82F48D93D01CB8EDF2177BCBD341543BF200FCEED709"
+      },
+      {
+        "path": "10 Maps of Content\\Computer Science MOC.md",
+        "expected": "B0407B2DACC77CD74873406DAB52503B8DB34860BF4025BF9245B3E1D706ED6B",
+        "actual": "231BEDCD74F4876C67528060A6244401BBBA25FDC6EB576DD5D523B83F601810"
+      },
+      {
+        "path": "10 Maps of Content\\Database Systems MOC.md",
+        "expected": "099092193567B2886282DFC726C61452927E3E6A2A634231904F7BA0F520C4A6",
+        "actual": "E6F968DA55D86C10BAABF431DA2E16718FF578E72B2B8D45565E63447490FD49"
+      },
+      {
+        "path": "10 Maps of Content\\DevOps and Infrastructure MOC.md",
+        "expected": "ED0B27FB474CB575FFF62000C0D8C74F49174412DB966E571547E0E502ED160D",
+        "actual": "48F8D4C3136D7A15B73B3AE7FEC777B869141A78183FC2235D4BFDB7CF61EA62"
+      },
+      {
+        "path": "10 Maps of Content\\Distributed Systems MOC.md",
+        "expected": "1A52A3D63013061AB6F054CAC5405E36EEC9AC5DEA67BDE26D18BA89F4980B70",
+        "actual": "BF4B28F026FF6311C93ABD93645D67890E5E5FCF14A68631F101F57E3CCCB512"
+      },
+      {
+        "path": "10 Maps of Content\\Home.md",
+        "expected": "620B190C086D67A853CFE9C62E6D790AABE4C151074A41D9A3671ECDF1FECCE9",
+        "actual": "645F7FDF2DD49EDD96C321FC96F572997474B612030EC813DC26B18B67AA13CF"
+      },
+      {
+        "path": "10 Maps of Content\\Learning, Career and Personal MOC.md",
+        "expected": "0D67A2BF91FEC3D400DC9B9406F64A1661323884382958F45B468C04BF810252",
+        "actual": "4F1BE756DE5596C2738269E7F0DDBC0A258DC1BA381BC9EF28733C806B4CD416"
+      },
+      {
+        "path": "10 Maps of Content\\Programming Languages MOC.md",
+        "expected": "DBEB45117568C23CD10794D0F2691577DF8C279E4A4E598A3CE7A78F8BCE7490",
+        "actual": "C20901D54D9FABA2C759AAC14096ED7915A5CDAC00BD252A5A54F6655058E7D4"
+      },
+      {
+        "path": "10 Maps of Content\\Projects MOC.md",
+        "expected": "22AF24A8B82542BC342A45BC256B30026B30FCB5165D206F2C61082E9B974AD2",
+        "actual": "DC5A34CA8AF8BBD65E2FCC79902E3FD024BB1F6C01DC541ACA38D8A8EE294D22"
+      },
+      {
+        "path": "10 Maps of Content\\Research and Master's Prep MOC.md",
+        "expected": "CF4676FCEE28901BBCA08653AE92CCAA4A00E27A407EF8453AF9167AAE0569BF",
+        "actual": "3B158700606C7C08771E14E74CB93C0178AE00701DABE2CE924B7698F7FB0335"
+      },
+      {
+        "path": "10 Maps of Content\\Software Engineering MOC.md",
+        "expected": "28D2FE6716E446BB840008A817AB1FCA3E41DEE7E27262A0C83E1C8FDCE8533C",
+        "actual": "DC939E9207F1646465DD4827068BA250C364AA7A1DCAD75AA6F191F2CCFF2EE2"
+      },
+      {
+        "path": "10 Maps of Content\\System Design MOC.md",
+        "expected": "393F51AFF4D968690AAF011EF98A1FB972158C7AEFAAC8DD2C76C0793B0E1C99",
+        "actual": "08D7484F2C954E5D8A66F5BB969C4C187B759BD32281FE247464D4A8CA242C8A"
+      },
+      {
+        "path": "My Study\\README.md",
+        "expected": "E8896B1EE2BDB9B8FB6801D992968DAB236F5B8EE7888B943F95B400064A1108",
+        "actual": "81B1EC77B3E60DCE535A232677B70CC2510BCC2D0320A7941B74268CD5A8C5A2"
+      },
+      {
+        "path": "Templates\\MOC.md",
+        "expected": "8A46133833369ED605417DFEF9B6D5B5BC2AA5F4B9B36551E426BE48B09BBCA3",
+        "actual": "40166F7CD880C6A58BD32C60D542711EBAC6FA65C04FAA070EAB92B1E83738EA"
+      }
+    ],
+    "moved": 657,
+    "missing": [],
+    "newFiles": [
+      "00 System/Dashboards/Inbox Review.md",
+      "00 System/Dashboards/Literature Awaiting Synthesis.md",
+      "00 System/Knowledge Extraction Proposals.md",
+      "00 System/Manifests/phase-e-move-results.csv",
+      "00 System/Manifests/phase-g-audit.json",
+      "20 Zettelkasten/Permanent Notes/Deferred Execution in LINQ.md",
+      "20 Zettelkasten/Permanent Notes/EF Core Change Tracker.md",
+      "20 Zettelkasten/Permanent Notes/Go Modules.md",
+      "20 Zettelkasten/Permanent Notes/Kubernetes Cluster Architecture.md",
+      "20 Zettelkasten/Permanent Notes/Kubernetes Labels and Selectors.md",
+      "20 Zettelkasten/Permanent Notes/Load Balancing in Scalable Systems.md",
+      "20 Zettelkasten/Permanent Notes/N+1 Query Problem.md",
+      "20 Zettelkasten/Permanent Notes/Variable Shadowing in Go.md",
+      "Attachment/README.md",
+      "Attachments/Backend Development/Backend Development Images.md",
+      "Attachments/College/College Images.md",
+      "Attachments/Database Systems/Database Systems Images.md",
+      "Attachments/DevOps/DevOps Images.md",
+      "Attachments/Distributed Systems/Distributed Systems Images.md",
+      "Attachments/Personal/Personal Images.md",
+      "Attachments/README.md",
+      "Attachments/Software Engineering/Software Engineering Images.md",
+      "Attachments/System Design/System Design Images.md",
+      "Attachments/Uncategorized/Uncategorized Images.md",
+      "Templates/Reference Note.md"
+    ],
+    "newCount": 25
+  },
+  "images": {
+    "attachCount": 657,
+    "uniqueHashes": 606,
+    "moveHashCheck": {
+      "rows": 657,
+      "ok": 657,
+      "bad": []
+    },
+    "galleryEmbeds": 657,
+    "galleryBroken": []
+  },
+  "backups": {
+    "preResume": {
+      "exists": true,
+      "files": 2621,
+      "bytes": 288337231
+    },
+    "preZettelkasten": {
+      "exists": true,
+      "files": 2580,
+      "bytes": 287498740
+    },
+    "preMetadata": {
+      "exists": true,
+      "files": 2580,
+      "bytes": 287437662
+    },
+    "preRefactor": {
+      "exists": true,
+      "files": 2535,
+      "bytes": 287372048
+    },
+    "preStage3": {
+      "exists": true,
+      "files": 2580,
+      "bytes": 287434477
+    }
+  },
+  "manifestVerify": {
+    "preResume": {
+      "rows": 1439,
+      "ok": 1439,
+      "missing": [],
+      "mismatch": []
+    },
+    "preZettelkasten": {
+      "rows": 1398,
+      "ok": 1398,
+      "missing": [],
+      "mismatch": []
+    }
+  },
+  "permanent": {
+    "count": 8,
+    "notes": [
+      {
+        "file": "Deferred Execution in LINQ.md",
+        "links": 8
+      },
+      {
+        "file": "EF Core Change Tracker.md",
+        "links": 8
+      },
+      {
+        "file": "Go Modules.md",
+        "links": 10
+      },
+      {
+        "file": "Kubernetes Cluster Architecture.md",
+        "links": 8
+      },
+      {
+        "file": "Kubernetes Labels and Selectors.md",
+        "links": 8
+      },
+      {
+        "file": "Load Balancing in Scalable Systems.md",
+        "links": 9
+      },
+      {
+        "file": "N+1 Query Problem.md",
+        "links": 8
+      },
+      {
+        "file": "Variable Shadowing in Go.md",
+        "links": 7
+      }
+    ],
+    "problems": []
+  }
+}
