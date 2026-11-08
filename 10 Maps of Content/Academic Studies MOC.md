@@ -81,6 +81,6 @@ No Permanent Notes yet. Course notes are still lecture-scoped; concept extractio
 ## Gaps
 
 - Several second-term courses have no hub note; the first lecture is used as the entry point.
-- The former `My Study/Collage` folder became `College`, then moved to `30 Sources/College`; all links were updated.
+- The former `Collage` folder was renamed to `College`, then moved to `30 Sources/College`; all links were updated.
 - `Software Requirment analysis` and `Git Assignmnet.md` still contain spelling errors; they are recorded in [[00 System/Review Report]].
 - The two `Project Documentation` notes differ and are tracked in [[00 System/Review Report]].

@@ -28,8 +28,8 @@ related: ["[[00 System/Migration Plan]]"]
 | Phase C — Metadata & link reconciliation | COMPLETED | 2026-11-02 | 2026-11-02 | 381 valid YAML; 0 invalid; 1,182/1,194 links resolve |
 | Phase D — Knowledge preparation | COMPLETED | 2026-11-02 | 2026-11-08 | 8 Permanent Notes; valid YAML; 0 broken links; 0 duplicate basenames |
 | Phase E — Attachment migration | COMPLETED | 2026-11-08 | 2026-11-08 | 657/657 moved; 0 hash mismatches; 657/657 gallery embeds resolve |
-| Phase F — Dashboards/templates/MOCs | IN PROGRESS | 2026-11-08 | — | — |
-| Phase G — Final verification | NOT STARTED | — | — | — |
+| Phase F — Dashboards/templates/MOCs | COMPLETED | 2026-11-08 | 2026-11-08 | 15 MOCs, 5 dashboards, 8 templates; 0 stale layer references; links resolve |
+| Phase G — Final verification | IN PROGRESS | 2026-11-08 | — | — |
 
 ## Recovery facts
 
@@ -145,13 +145,36 @@ related: ["[[00 System/Migration Plan]]"]
 - Protected files: 60/60 unchanged (SHA-256).
 - No image was deleted; no source note was modified by the move.
 
+## Phase F — dashboards, templates, MOCs
+
+### Completed
+
+- Updated `Home`: added the `Attachments` layer, added the gallery index to source hubs, and extended the working loop with the image-filing step.
+- Updated all 14 domain MOCs:
+  - removed stale `20 Knowledge`, `My Study`, `30 Projects`, `40 Personal`, and "Stage 4" references;
+  - pointed course material at `30 Sources/College` and projects at `40 Projects`;
+  - added `Permanent Notes` sections with the notes that actually exist;
+  - added topic gallery links where images exist.
+- Updated `00 System/Dashboard`, `Recent Changes`, `Orphan Notes`, and `Metadata Gaps` to the current phase vocabulary.
+- Added two focused dashboards: `Inbox Review` and `Literature Awaiting Synthesis`; linked both from the main Dashboard.
+- Added `Templates/Reference Note.md` and updated `Templates/MOC.md` to use `Permanent Notes` and an `Image gallery` section. The other six general templates already matched the current metadata conventions.
+- Left all TaskNotes templates untouched.
+
+### Verification
+
+- 15 MOC files (14 domain maps + Home); 5 dashboards; 8 templates; 9 topic folders; 9 galleries; 0 empty topic folders.
+- No stale `20 Knowledge`, `My Study`, `30 Projects`, `40 Personal`, `Stage 4`, or `Phase D extracts` strings remain in `10 Maps of Content`.
+- All 50 files touched or created in Phase F parse as valid YAML (0 invalid, 0 missing frontmatter).
+- Full-vault audit: 2,114 links/embeds resolve; 0 ambiguous; the same 9 known documentation examples and `Camp` / `Project Csharp` gaps remain.
+- Gallery and Permanent Note links added from MOCs all resolve.
+
 ## Next action
 
-1. Execute Phase F — dashboards, templates, and MOCs per `Migration Plan` §8.
-2. Update `Home` and the 14 MOCs: remove stale `20 Knowledge`, `My Study`, `30 Projects`, `40 Personal`, and "Stage 4" references; link the new galleries and Permanent Notes.
-3. Add the missing `Templates/Reference Note.md` and align the seven existing templates with the current layers.
-4. Review the three dashboards; add `Inbox Review` and `Literature Awaiting Synthesis` only if they add real navigation.
-5. Verify Phase F links/YAML, update this checkpoint, then run Phase G.
+1. Execute Phase G — final verification per `Migration Plan` §9.
+2. Re-run the full file accounting against the baseline and pre-resume manifests.
+3. Validate all YAML and all links/embeds; confirm the 9 unresolved items are the documented examples and gaps.
+4. Verify protected files, image counts/hashes, PDF annotation links, and Git state.
+5. Write the final report in `00 System/` and mark the migration complete.
 
 ## Continuation rules
 

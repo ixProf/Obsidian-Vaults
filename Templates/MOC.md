@@ -27,9 +27,13 @@ updated: {{date:YYYY-MM-DD}}
 
 - 
 
-## Atomic notes
+## Permanent Notes
 
 None yet.
+
+## Image gallery
+
+- 
 
 ## Related maps
 

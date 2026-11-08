@@ -21,6 +21,7 @@ Operational entry point for the vault. Use [[10 Maps of Content/Home]] for the k
 |---|---|
 | Navigate knowledge | [[10 Maps of Content/Home]] |
 | Capture a thought | [[01 Inbox/README]] |
+| Triage the inbox | [[00 System/Dashboards/Inbox Review]] |
 | Follow the Master's plan | [[30 Sources/Other Sources/My Master/Dashboard]] |
 | Work on a project | [[Projects MOC]] |
 | Review unresolved items | [[00 System/Review Report]] |
@@ -71,6 +72,8 @@ LIMIT 12
 - [[00 System/Dashboards/Recent Changes]]
 - [[00 System/Dashboards/Orphan Notes]]
 - [[00 System/Dashboards/Metadata Gaps]]
+- [[00 System/Dashboards/Inbox Review]]
+- [[00 System/Dashboards/Literature Awaiting Synthesis]]
 
 ## Current focus
 
